@@ -21,7 +21,7 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 ## How it works
 
 1. A mirror account is created in the target chain to run transactions signed by the corresponding Ethereum account owner.
-2. Wrapped tokens are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via Gravity.
+2. Wrapped tokens are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via [Gravity](https://gravity.tech).
 3. AMM enables swaps of wrapped tokens and liquidity providing.
 4. A transaction fees controller charges users in ETH tokens, which are converted to native tokens of other platforms to pay for transactions with a mirror account. The fees size is equivalent to the standard transaction fees of the destination chain.
 5. Governance is based on DAO model and stimulates liquidity through reward system.
@@ -46,7 +46,7 @@ GTON is used to pay Graviton fees and farming rewards, acting as the Graviton sy
 
 You will:
 
-• empower VenLab, a team with great InDeFi experience that created the Neutrino and Gravity protocols, 
+• empower [VenLab](https://venlab.dev), a team with great InDeFi experience that created the [Neutrino](https://neutrino.at) and [Gravity protocols](https://gravity.tech), 
 
 • get an early-bird investment opportunity, which ensures your permanent governance role,
 

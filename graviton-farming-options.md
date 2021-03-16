@@ -1,5 +1,7 @@
 # Graviton Farming Options
 
+![](.gitbook/assets/graviton_farming-2x.png)
+
 Graviton's yield farming system consists of three components: 
 
 * governance farming of the GTON token, 
@@ -72,6 +74,4 @@ This type of yield farming represents the Graviton system's most interesting par
 ### GTON LP farming
 
 Users are also encouraged to provide inter-chain liquidity for GTON. GTON can be claimed \(or harvested\) and sent to pools on multiple farms to receive LPGTON. These LP tokens will be automatically included in users’ portfolios on Graviton and could be sent to farming with subsequent income in GTON.
-
-![](.gitbook/assets/graviton_farming-2x.png)
 

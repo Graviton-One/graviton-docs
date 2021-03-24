@@ -32,6 +32,8 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 
 **GTON** is a farmable governance token with a gradually increasing circulating supply, limited to **21,000,000**. ****
 
+![](.gitbook/assets/gton-emission-curve-2x.png)
+
 GTON is used to pay Graviton fees and farming rewards, acting as the Graviton system’s key fuel.
 
 ![](.gitbook/assets/gton_utility.png)

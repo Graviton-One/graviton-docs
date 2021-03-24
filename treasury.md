@@ -1,4 +1,4 @@
-# Graviton Interchain Treasury Farming Architecture
+# Interchain Treasury Farming Architecture
 
 Graviton governance is initiated through treasury farming, a novel DAO concept for self-financing, decentralized development and governance token issuance. This article describes the mechanics of farming in the treasury of the Graviton project. As a foundational element, Graviton uses a primary blockchain with many liquid stablecoins \(top 14 by market cap\) which are pegged against the US Dollar on the Ethereum blockchain. Treasury backers can deposit their stablecoins into the treasury by transferring to a multisig contract based on Gnosis Safe. Further, the event of the deposit is registered by the oracles of the [Gravity network](https://gravity.tech) and transmitted to a smart contract on the [Fantom blockchain](https://fantom.foundation/).
 

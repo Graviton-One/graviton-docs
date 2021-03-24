@@ -1,4 +1,4 @@
-# Graviton Multisig
+# Multisig
 
 The primary goal of Graviton, while gaining momentum and beyond, is to construct a robust governance system around the incentivization mechanics of liquidity for interchain wrapped assets. In this governance system, the holders of GTON will be vested with a voting power on the direction of Graviton development: the polling of holders’ decisions will be conducted through offchain voting, whereas the protocol updates with the associated alterations to the smart contracts will require a multisignature procedure. Thus, all the smart contracts of Graviton will be signed through a multisignature, with the developers of Graviton and various representatives from the most prominent and respected DeFi projects participating as signatories.
 

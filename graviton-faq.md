@@ -1,4 +1,4 @@
-# Graviton FAQ
+# FAQ
 
 ## What is Graviton?
 

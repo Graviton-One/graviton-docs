@@ -1,4 +1,4 @@
-# Graviton Farming Options
+# Farming Options
 
 ![](.gitbook/assets/graviton_farming-2x.png)
 

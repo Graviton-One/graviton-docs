@@ -3,6 +3,7 @@
 * [Graviton: Overview](README.md)
 * [Graviton Interchain Treasury Farming Architecture](treasury.md)
 * [Graviton Farming Options](graviton-farming-options.md)
+* [Graviton Multisig](graviton-multisig.md)
 * [Graviton FAQ](graviton-faq.md)
 * [Graviton Website](https://graviton.one/)
 * [Light Paper](https://alexpupyshev.medium.com/the-beginning-of-graviton-a-seamless-inter-chain-defi-experience-with-reasonable-fees-4d52dd5fab84)

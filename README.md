@@ -34,6 +34,16 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 
 ![](.gitbook/assets/gton-emission-curve-2x.png)
 
+GTON is minted according to the following emission formula:
+
+$$
+y = \frac{a}{(x+\frac{a}{c}+o)+c},\\
+\text{where c = 21000000,}\\ 
+\text{a = 11099999999999,}\\ 
+\text{o is the starting block of farming,}\\
+\text{x is Ethereum's current block count}
+$$
+
 GTON is used to pay Graviton fees and farming rewards, acting as the Graviton system’s key fuel.
 
 ![](.gitbook/assets/gton_utility.png)

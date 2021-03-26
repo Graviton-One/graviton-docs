@@ -18,7 +18,7 @@ Early-backers treasury farming will be available for a limited period after the 
 
 ### Backers treasury farming 
 
-Following the two-week early backer period, the regular backer option will become available, with no minimum investment requirement. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. These investments will form the second part of the treasury fund, alongside the early backers' portion. Users will be able to make an indefinite deposit and collect an income in GTON tokens – that is, to farm GTON tokens, proportionally to their share in the entire backers’ share equal 7% of the whole GTON supply. However, unlike the early-bird backer's fixed share, the share of regular backers will be diluted as the number of backers grows.
+Following the early-backer period, the regular-backer option will become available, with no minimum investment requirement. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. These investments will form the second part of the treasury fund, alongside the early backers' portion. Users will be able to make an indefinite deposit and collect an income in GTON tokens – that is, to farm GTON, proportionally to their share in the entire backers’ share equal to 7% of the whole GTON supply. However, unlike the early-bird backer's fixed share, the share of regular backers will be diluted as the number of backers grows.
 
 ## Staking-based farming 
 
@@ -47,7 +47,7 @@ The Graviton governance system includes various governance roles that correspond
 | LP-GTON | 18.00% | AMM, DEX liquidity providers of governance tokens | user |
 | LP-WT | 24.00% | AMM, DEX liquidity providers of wrapped tokens | user |
 
-One role, consuls, adopts increased governance powers and, therefore, increased responsibility. Consuls can make proposals for protocol enhancement, adding integrations and bridges with other blockchains, as well as for the project's economics, such as yield farming income distribution, fee charging and distribution, GTON staking models etc. Consuls will also vote on all key decisions regarding Graviton development, or accumulate in their accounts – with other users' consent – the latter's votes or GTON tokens. This option will be added in one of Graviton's subsequent releases. 
+One role, consuls, adopts increased governance powers and, therefore, increased responsibility. Consuls can make proposals for protocol enhancement, adding integrations and bridges with other blockchains, and modify the mechanics that underpin the project's economics, such as yield farming income distribution, fee charging and distribution, GTON staking models etc. Consuls will also vote on all key decisions regarding Graviton development, or accumulate in their accounts – with other users' consent – the latter's votes or GTON tokens. This option will be added in one of Graviton's subsequent releases. 
 
 Consuls will be selected among volunteering early-bird investors and regular backers, and selection will be made by voting with GTON tokens. 
 
@@ -69,7 +69,15 @@ Fees will be accumulated in a separate fund that will be regularly \(with a regu
 
 ### Wrapped tokens LP farming 
 
-This type of yield farming represents the Graviton system's most interesting part, which reflects its original goal of incentivizing users to create wrapped tokens. In the token wrapping process, assets from origin chains locked in bridges are sent to yield farming in various protocols and АММs, such as Curve, SushiSwap, PancakeSwap and others. Proceeds from this type of yield farming constitute another source of rewards that can be distributed based on a governance vote. For instance, the proceeds could be used to buy back GTON in the market to redistribute among existing GTON holders. As soon as a user's wrapped tokens have been issued in the destination chain and sent to farming, LP farming becomes available to Graviton users as the system automatically tracks the issued tokens. Liquidity providers will receive LP tokens that will be automatically included in their portfolios and could be sent to Graviton farming. Liquidity providers' income in GTON will depend upon the amount of earned LP tokens, as well as the asset, the pool, the exchange and the chain in which the exchange operates. An equation for calculating liquidity providers' income based on the above mentioned parameters, will be determined by a governance vote and could be corrected under a consul's proposal. Pools for GTON farming could be of several types: wrapped tokens against volatile assets, wrapped tokens against stablecoins, wrapped tokens issued on Graviton against the same tokens issued in other chains. The latter type of pools will facilitate LP token farming without impermanent loss, similar to multichain.xyz.
+This type of yield farming represents the Graviton system's most interesting part, which reflects its original goal of incentivizing users to create wrapped tokens. 
+
+In the token wrapping process, assets from origin chains locked in bridges are sent to yield farming in various protocols and АММs, such as Curve, SushiSwap, PancakeSwap and others. 
+
+Proceeds from this type of yield farming constitute another source of rewards that can be distributed based on a governance vote. For instance, the proceeds could be used to buy back GTON in the market to redistribute among the existing GTON holders. 
+
+As soon as a user's wrapped tokens have been issued in the destination chain and sent to farming, LP farming becomes available to Graviton users as the system automatically tracks the issued tokens. Liquidity providers will receive LP tokens that will be automatically included in their portfolios and could be sent to Graviton farming. Liquidity providers' income in GTON will depend upon the amount of earned LP tokens, as well as the asset, the pool, the exchange and the chain in which the exchange operates. An equation for calculating liquidity providers' income based on the above mentioned parameters, will be determined by a governance vote and could be corrected under a consul's proposal. 
+
+Pools for GTON farming could be of several types: wrapped tokens against volatile assets, wrapped tokens against stablecoins, wrapped tokens issued on Graviton against the same tokens issued in other chains. The latter type of pools will facilitate LP token farming without impermanent loss, similar to multichain.xyz.
 
 ### GTON LP farming
 

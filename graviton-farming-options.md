@@ -14,7 +14,7 @@ This combination of the Graviton system, and the parameters thereof, can be conf
 
 ### Early-backers treasury farming 
 
-This option of treasury investment will be available for two weeks after the launch of Graviton governance farming. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. All invested funds will form the core capital that will be used by a smart contract to farm and distribute GTON tokens. Users making investments during the two-week period become early-bird investors or early backers and are entitled to a fixed 7% share of the entire income, independently of the number of new contributions. The 7% share will be divided between all early backers in proportion to their input during the initial two-week period, which won't be changed. In the future, Graviton's governance tools will enable the community to change the share allocated to the early backers. 
+Early-backers treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors or early backers and are entitled to 7% share of the entire farming income in GTON, which is a fixed percentage independent of the number of new contributions. The 7% share will be divided between all early backers in proportion to their input, which won't be changed. In the future, Graviton's governance tools will enable the community to change the share allocated to the early backers.
 
 ### Backers treasury farming 
 

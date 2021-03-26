@@ -59,7 +59,7 @@ Staking-based farming income is also calculated in GTON. The APY is controlled b
 
 ### Where are GTON staking rewards coming from? 
 
-Graviton has a fully developed infrastructure required for issuing wrapped tokens. All networks connected to [Gravity](https://gravity.tech) can be used as either an origin chain or a destination chain for issuing wrapped tokens by locking the origin chain's assets in SuSy bridges. This function is free for all users. In the second release, scheduled for Q3, Graviton will fully integrate [Gravity](https://gravity.tech), enabling users to send assets to a bridge and implement the wrap function, as well as receive wrapped tokens to a wallet in the destination chain. 
+Graviton has a fully developed infrastructure required for issuing wrapped tokens. All networks connected to Gravity or available on Multichain.xyz can be used as either an origin chain or a destination chain for issuing wrapped tokens by locking the origin chain's assets in bridges. This function is free for all users. In the second release, scheduled for Q3, Graviton will fully integrate [Gravity](https://gravity.tech), enabling users to send assets to a bridge and implement the wrap function, as well as receive wrapped tokens to a wallet in the destination chain. 
 
 To do the opposite – send tokens back to the origin chain – a user will have to pay a fee in GTON. 
 

@@ -14,7 +14,7 @@ The composition of participants will change as the project develops. Adding a ne
 6. Industry Leader in the Oracles Infrastructure - Core dev team
 7. Early Advisor / Investor
 8. VenLab Team - Lead Architect
-9. VenLab Team - Blockchain Lead
+9. YellowBlock - Founding & Influencers team
 
 This lineup will be relevant for all the smart contracts of Graviton infrastructure at the Early Birds stage of the launch and during Wrapped Tokens LP-Farming. For multisig providers, an allocation of GTON of 0.5 to 1 percent of the daily farming reward is implemented.
 

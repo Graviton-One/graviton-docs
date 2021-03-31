@@ -52,7 +52,7 @@ GTON is used to pay Graviton fees and farming rewards, acting as the Graviton sy
 
 ## Milestones
 
-![](.gitbook/assets/graviton_milestones-2x%20%281%29.png)
+![](.gitbook/assets/2021-03-31-23.17.38.jpg)
 
 ## Join Graviton as an Early Bird
 

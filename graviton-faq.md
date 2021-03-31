@@ -96,7 +96,7 @@ Initially, GTON can be farmed on the Graviton portal by supplying stablecoins to
 
 GTON farming will be initially available to early backers. Subsequently, public governance farming will be launched and an opportunity to supply stablecoins to the treasury will become available for regular backers. Other farming options will be launched in late Q2.
 
-![](.gitbook/assets/graviton_milestones-2x%20%281%29.png)
+![](.gitbook/assets/2021-03-31-23.17.38%20%281%29.jpg)
 
 ## How can I see my farmed GTON?
 

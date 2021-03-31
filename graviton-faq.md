@@ -116,9 +116,3 @@ In subsequent releases, the following information will be added:
 
 You can claim your GTONs by clicking the “Harvest” button in the Portfolio section. This option will be available in the subsequent releases of Graviton.
 
-## Why provide liquidity for wrapped tokens?
-
-Providing liquidity for wrapped tokens with Graviton enables users to farm GTON tokens. Simply wrapping tokens is not sufficient to make them useful in a destination chain–liquidity provision is also required for trading activities to begin. Therefore, Graviton also incentivizes users to supply liquidity to wrapped tokens on blockchains integrated with Gravity.
-
-This reward option will be available in Graviton’s subsequent releases.
-

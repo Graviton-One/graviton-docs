@@ -14,7 +14,7 @@ This combination of the Graviton system, and the parameters thereof, can be conf
 
 ### Early-backers treasury farming 
 
-Early-backers treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors or early backers and are entitled to 7% share of the entire farming income in GTON, which is a fixed percentage independent of the number of new contributions. The 7% share will be divided between all early backers in proportion to their input, which won't be changed. In the future, Graviton's governance tools will enable the community to change the share allocated to the early backers.
+Early-backers treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors or early backers and are entitled to 10% share of the entire farming income in GTON, which is a fixed percentage independent of the number of new contributions. The 10% share will be divided between all early backers in proportion to their input, which won't be changed. In the future, Graviton's governance tools will enable the community to change the share allocated to the early backers.
 
 ### Backers treasury farming 
 
@@ -30,21 +30,22 @@ Let's expand on the last point – the governance functionality.
 
 The Graviton governance system includes various governance roles that correspond to functions or actions taken by Graviton users. See table below:
 
-|  role | % from mined GTON supply | description | role timeline |
+
+
+|   |  |  |  |
 | :--- | :--- | :--- | :--- |
+| role | % from mined GTON supply | description | role timeline |
 | treasury | 4.50% | treasury smart contract account | permanent |
-| leader | 5.00% | Aleksei or another elected project leader | impermanent |
-| lead contributor | 5.00% | superior level experienced dev/designer/product | impermanent |
-| contributor | 2.00% | middle lvl experienced dev/designer/product | impermanent |
 | oracle | 11.00% | Gravity node / backend / cloud provider | impermanent |
 | consul | 5.50% | active governance decision maker | impermanent |
 | multisig | 1.00% | signature provider for smart contract migrations | impermanent |
-| backers | 7.00% | treasury investors | permanent |
-| early backers | 7.00% | "early bird" treasury investors | permanent |
-| community | 2.00% | community/ advocates / ambassadors / local community | impermanent |
+| backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |
+| early backers | 10.00% | "early bird" treasury contributors whose share is gets diluted with the new backers inflow | permanent |
+| community | 4.00% | active community members/ advocates/ ambassadors/partners  | impermanent |
 | influencers | 2.00% | public speakers / SMM influencers | impermanent |
 | governance stakers | 6.00% | governance staking / delegation to consuls | user |
-| LP-GTON | 18.00% | AMM, DEX liquidity providers of governance tokens | user |
+| сore development team  | 12.00% | developers/ designers/ product managers | impermanent |
+| LP-GTON | 18.00% | AMM, DEX liquidity providers of GTON governance  tokens | user |
 | LP-WT | 24.00% | AMM, DEX liquidity providers of wrapped tokens | user |
 
 One role, consuls, adopts increased governance powers and, therefore, increased responsibility. Consuls can make proposals for protocol enhancement, adding integrations and bridges with other blockchains, and modify the mechanics that underpin the project's economics, such as yield farming income distribution, fee charging and distribution, GTON staking models etc. Consuls will also vote on all key decisions regarding Graviton development, or accumulate in their accounts – with other users' consent – the latter's votes or GTON tokens. This option will be added in one of Graviton's subsequent releases. 

@@ -6,7 +6,7 @@
 
 — DeFi on Ethereum are burdened with enormous fees
 
-— The use of alternative networks is hampered by complicated, multi-step user experience and insufficient liquidity of tokens wrapped in other blockchains.
+— The use of alternative networks is hampered by complicated, multi-step user experience and insufficient liquidity of tokens wrapped in other blockchains
 
 ## Solution
 

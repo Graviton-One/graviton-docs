@@ -35,7 +35,7 @@ The Graviton governance system includes various governance roles that correspond
 | role | % from mined GTON supply | description | role timeline |
 | :--- | :--- | :--- | :--- |
 | treasury | 4.50% | treasury smart contract account | permanent |
-| oracle | 11.00% | Gravity node / backend / cloud provider | impermanent |
+| oracle | 6.00% | Gravity node / backend / cloud provider | impermanent |
 | consul | 5.50% | active governance decision maker | impermanent |
 | multisig | 1.00% | signature provider for smart contract migrations | impermanent |
 | backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |

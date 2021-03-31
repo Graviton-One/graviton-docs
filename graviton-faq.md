@@ -49,22 +49,20 @@ Early backers receive a fixed share of the total governance rewards for the futu
 
 The Graviton launch scheme stipulates several roles, which are described in the table below:
 
-| role | description | role timeline | % from mined GTON supply |
+| role | % from mined GTON supply | description | role timeline |
 | :--- | :--- | :--- | :--- |
-| treasury | treasury smart contract account | permanent | 4.50% |
-| leader | Aleksei or another elected project leader | impermanent | 5.00% |
-| lead contributor | superior lvl experienced dev/designer/product | impermanent | 5.00% |
-| contributor | middle lvl experienced dev/designer/product | impermanent | 2.00% |
-| oracle | Gravity node / backend / cloud provider | impermanent | 11.00% |
-| consul | active governance decision maker | impermanent | 5.50% |
-| multisig | signature provider for smart contract migrations | impermanent | 1.00% |
-| backers | treasury investors | permanent | 7.00% |
-| early backers | "early bird" treasury investors | permanent | 7.00% |
-| community | community/ advocates / ambassadors / local community | impermanent | 2.00% |
-| influencers | public speakers / SMM influencers | impermanent | 2.00% |
-| governance stakers | governance staking / delegation to consuls | user | 6.00% |
-| LP-GTON | AMM, DEX liquidity providers of governance tokens | user | 18.00% |
-| LP-WT | AMM, DEX liquidity providers of wrapped tokens | user | 24.00% |
+| treasury | 4.50% | treasury smart contract account | permanent |
+| oracle | 11.00% | Gravity node / backend / cloud provider | impermanent |
+| consul | 5.50% | active governance decision maker | impermanent |
+| multisig | 1.00% | signature provider for smart contract migrations | impermanent |
+| backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |
+| early backers | 10.00% | "early bird" treasury contributors whose share is gets diluted with the new backers inflow | permanent |
+| community | 4.00% | active community members/ advocates/ ambassadors/partners  | impermanent |
+| influencers | 2.00% | public speakers / SMM influencers | impermanent |
+| governance stakers | 6.00% | governance staking / delegation to consuls | user |
+| сore development team  | 12.00% | developers/ designers/ product managers | impermanent |
+| LP-GTON | 18.00% | AMM, DEX liquidity providers of GTON governance  tokens | user |
+| LP-WT | 24.00% | AMM, DEX liquidity providers of wrapped tokens | user |
 
 Each role is supposed to perform specific functions and has its share enshrined as a percentage of the total governance farming rewards. However, the share can be changed by governance voting. Some of the roles, like consuls, influencers, community advocates are appointed by voting of all token holders.
 

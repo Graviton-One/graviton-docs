@@ -2,23 +2,23 @@
 
 ## What is Graviton?
 
-Graviton is a governance framework and liquidity incentivization solution for inter-chain swaps and wrapped tokens.
+Graviton is a universal wrapped tokens’ liquidity incentivization solution, providing seamless access to multiple chains with an Ethereum mirror account and creating a reward-based synergetic economy around wrapped assets.
 
-Graviton offers seamless inter-chain token transfers thanks to trustless bridges and Ethereum mirror accounts. Graviton also creates a reward-based economy around wrapped tokens that incentivizes liquidity.
+Graviton unites the communities of multiple chains/AMMs/DeFi projects and provides them with governance tools for boosting liquidity and increasing yield generation.
 
-Graviton operates on the decentralized treasury governance model \(DGF\), which combines an AMM service enabling instant token swaps and liquidity providing opportunities with DAO governance.
+Graviton provides an infrastructure for Ethereum-account owners to let them effortlessly access a wide range of alternative chains via mirror accounts.\*
 
 ## How does it work?
 
-Leveraging Gravity, a token- and blockchain-agnostic oracles network for cross-chain communication, Graviton enables Ethereum accounts to interact trustlessly with any blockchain, maintaining a sufficient decentralization level. This facilitates safe and fast inter-chain asset swapping via bridges. 
+Graviton enables Ethereum accounts to interact trustlessly with any blockchain, maintaining a sufficient decentralization level. This is achieved by leveraging Gravity, a token- and blockchain-agnostic oracles network for cross-chain communication, or potentially other oracle networks.
 
-But Graviton not only allows for creation and swapping of issued wrapped tokens, but also incentivizes users to lock tokens in gateways and maintain their liquidity in decentralized AMM pools with its governance token GTON. GTON rewards come from the following sources:
+Graviton incentivizes users to lock tokens in gateways and maintain their liquidity in decentralized AMM pools with its governance token GTON. GTON rewards come from the following sources:
 
 * GTON tokens are issued when a user invests in the treasury
 * From accumulated fees
 * Assets locked in bridges are sent to farming in various DeFi services, farmed tokens are swapped for GTON and subsequently distributed among Graviton farmers.
 
-In general, the process consists of five simple steps: 
+Graviton consists of five components: 
 
 1. A **mirror account** is created in the target chain to run transactions signed by the corresponding Ethereum account’s owner. A mirror account in a destination chain, other than Ethereum, carries out transactions signed by the Ethereum account owner - “mirror transactions.” 
 
@@ -31,14 +31,6 @@ In general, the process consists of five simple steps:
 5. **Reward-based governance** stimulates users to swap tokens and supply liquidity.
 
 As a result, the Ethereum account owner can use DeFi services in any other blockchain networks - Binance Smart Chain, Tron, Avalanche, Waves, Fantom, Huobi Eco Chain by signing transactions with MetaMask, Ledger or Trezor.
-
-## What technology for inter-chain swaps is used in Graviton?
-
-One of our key open-source solutions, which lies under the hood of Graviton and enables a sufficient level of decentralization, is Gravity -- a system of oracles for cross-chain communication.
-
-The Gravity network is blockchain- and token-agnostic, and it leverages a decentralized p2p reputation mechanism based on the so-called EigenTrust algorithm. As a foundational cross-chain communication element, cross-chain asset swapping  via gateways is implemented on top of Gravity as the so-called SuSy \(SuperSymmetry\) protocol.
-
-Utilizing Gravity as an underlying technology, mirror accounts are implemented to reduce blockchain fees and streamline user experience. The mechanism of mirror accounts comes into action when a user with an account in the origin chain \(Ethereum, for instance\) attempts to interact with a blockchain that is non-native to the wallet used. The mirror account is created automatically and matches transactions signed by an Ethereum account owner in a destination chain. 
 
 ## How does the Graviton governance work?
 

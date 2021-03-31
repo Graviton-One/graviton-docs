@@ -52,11 +52,11 @@ The Graviton launch scheme stipulates several roles, which are described in the 
 | role | % from mined GTON supply | description | role timeline |
 | :--- | :--- | :--- | :--- |
 | treasury | 4.50% | treasury smart contract account | permanent |
-| oracle | 11.00% | Gravity node / backend / cloud provider | impermanent |
+| oracle | 6.00% | Gravity node / backend / cloud provider | impermanent |
 | consul | 5.50% | active governance decision maker | impermanent |
 | multisig | 1.00% | signature provider for smart contract migrations | impermanent |
 | backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |
-| early backers | 10.00% | "early bird" treasury contributors whose share is gets diluted with the new backers inflow | permanent |
+| early backers | 10.00% | "early bird" treasury contributors whose share is never diluted with the new backers inflow | permanent |
 | community | 4.00% | active community members/ advocates/ ambassadors/partners  | impermanent |
 | influencers | 2.00% | public speakers / SMM influencers | impermanent |
 | governance stakers | 6.00% | governance staking / delegation to consuls | user |

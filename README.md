@@ -10,9 +10,11 @@
 
 ## Solution
 
-**Graviton is a governance framework and liquidity incentivization solution for inter-chain swaps and wrapped tokens.**
+**Graviton is a universal wrapped tokens’ liquidity incentivization solution, providing seamless access to multiple chains with an Ethereum mirror account and creating a reward-based synergetic economy around wrapped assets.**
 
-**Graviton offers seamless inter-chain token transfers thanks to trustless bridges and Ethereum mirror accounts. Graviton also creates a reward-based economy around wrapped tokens that incentivizes liquidity.**
+**Graviton unites the communities of multiple chains/AMMs/DeFi projects and provides them with governance tools for boosting liquidity and increasing yield generation.**
+
+**Graviton provides an infrastructure for Ethereum-account owners to let them effortlessly access a wide range of alternative chains via mirror accounts.\***
 
 _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other than Ethereum, carries out \(“mirrors”\) transactions signed by an Ethereum account owner.
 
@@ -22,7 +24,7 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 
 1. A mirror account is created in the target chain to run transactions signed by the corresponding Ethereum account owner.
 2. Wrapped tokens are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via [Gravity](https://gravity.tech).
-3. AMM enables swaps of wrapped tokens and liquidity providing.
+3. AMMs enable swaps of wrapped tokens and liquidity provision.
 4. A transaction fees controller charges users in ETH tokens, which are converted to native tokens of other platforms to pay for transactions with a mirror account. The fees size is equivalent to the standard transaction fees of the destination chain.
 5. Governance is based on DAO model and stimulates liquidity through reward system.
 

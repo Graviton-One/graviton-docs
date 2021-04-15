@@ -4,7 +4,7 @@ _Graviton governance is set in motion through treasury farming, a novel DAO conc
 
 At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 14 preselected liquid USD-pegged [stablecoins](https://debank.com/ranking/stablecoin). Treasury backers can deposit a stablecoin into the treasury by transferring it to a multisig contract based on [Gnosis Safe](https://gnosis-safe.io/). As soon as the event of the deposit happens, it is registered by the oracles of [the Gravity network](https://gravity.tech/) and transmitted to the farm smart contract on the [Fantom blockchain](https://fantom.foundation/). 
 
-![](https://lh4.googleusercontent.com/rdU4Fc0HBMHOf4sVVSM6OrZvDIsVf9inUKl-EnwueiOADPt_QrodDWiUQjs_FGdqqREhinp0_J1v2jUbBPYHlowm1AfOkRbzYy1om73SsQR-YjR2BNIi_cKgyYPgeRe9o8PEePmb)
+![](.gitbook/assets/interchain-dao-farming-2x%20%281%29.png)
 
 In the smart contract system on the Fantom network, the addresses of backers from Ethereum are mapped and their current “impact” is recorded in the Treasury. For each blockchain time interval, a share of newly mined Graviton tokens \($GTON\) is being proportionally distributed among the backers. The total supply of GTON is capped at 21 million tokens, and its emission is asymptotically decaying. Initially, the token is non-claimable, as this feature will only be activated later after the early bird period. The additional parameters that influence GTON distribution can be decided by voting of consuls: the delegates who have been vested with governance power by the holders of GTON, according to the principles of liquid democracy.
 

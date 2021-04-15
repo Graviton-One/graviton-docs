@@ -13,7 +13,7 @@ This type of farming includes two options: early-backers’ treasury farming and
 
 ### Early-backers’ treasury farming
 
-Early-backers’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors, or early backers, and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early backers in proportion to their input. 
+Early-backers’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUSD, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors, or early backers, and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early backers in proportion to their input. 
 
 ### Backers’ treasury farming
 

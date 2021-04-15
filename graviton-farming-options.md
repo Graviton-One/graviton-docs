@@ -17,7 +17,7 @@ Early-backers’ treasury farming will be available for a limited period after t
 
 ### Backers’ treasury farming
 
-Following the early-backer period, the regular-backer option will become available, with no minimum investment limit. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. These investments will form the second part of the treasury fund, alongside the early backers' portion. Users will be able to make a non-refundable deposit and collect an income in GTON tokens – that is, to farm GTON, proportionally to their share in the entire backers’ share equal to 7% of the whole GTON supply. However, unlike the early-bird backer's fixed share, the share of regular backers will be diluted as the number of backers grows.  
+Following the early-backer period, the regular-backer option will become available, with no minimum investment limit. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. These investments will form the second part of the treasury fund, alongside the early backers' portion. Users will be able to make a non-refundable deposit and collect an income in GTON tokens – that is, to farm GTON, proportionally to their share in the entire backers’ share equal to 3% of the whole GTON supply. However, unlike the early-bird backer's fixed share, the share of regular backers will be diluted as the number of backers grows.  
 
 
 ## Staking-based farming
@@ -30,24 +30,16 @@ Let's expand on the last point – the governance functionality.
 
 The Graviton governance system includes various governance roles that correspond to functions or actions taken by Graviton users. See table 1.
 
-| role | % from mined GTON supply | description | role timeline |
-| :--- | :--- | :--- | :--- |
-| treasury | 4.50% | treasury smart contract account | permanent |
-| oracle | 6.00% | Gravity node / backend / cloud provider | impermanent |
-| consul | 5.50% | active governance decision maker | impermanent |
-| multisig | 1.00% | signature provider for smart contract migrations | impermanent |
-| backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |
-| early backers | 10.00% | "early bird" treasury contributors whose share is never diluted with the new backers inflow | permanent |
-| community | 4.00% | active community members/ advocates/ ambassadors/partners  | impermanent |
-| influencers | 2.00% | public speakers / SMM influencers | impermanent |
-| governance stakers | 6.00% | governance staking / delegation to consuls | user |
-| сore development team  | 12.00% | developers/ designers/ product managers | impermanent |
-| LP-GTON | 18.00% | AMM, DEX liquidity providers of GTON governance  tokens | user |
-| LP-WT | 24.00% | AMM, DEX liquidity providers of wrapped tokens | use |
+| Category | Roles | Share by category |
+| :--- | :--- | :--- |
+| Backers | backers | 3,00% |
+|  | early backers | 10,00% |
+| LP | LP-GTON, LP-WT, governance stakers | 33,00% |
+| Strategic partners | partners and investors | 20,00% |
+| Operations | treasury, oracle, community, influencers | 14,00% |
+| Core Contributors | consuls, core development team, multisig | 20,00% |
 
 One role, consuls, adopts increased governance powers and therefore increased responsibility. Consuls can make proposals for protocol enhancement and modify the mechanisms that underpin the project's economics, such as yield farming income distribution, fee charging and accrual, GTON staking models etc. Consuls will also vote on all key decisions regarding Graviton development and will be delegated GTONs to vote on behalf of other users. This option will be added in one of Graviton's subsequent releases. 
-
-Consuls will be selected among volunteering early-bird backers and regular backers by voting with GTON tokens.
 
 Users who have farmed GTON tokens with their treasury investment, will be able to stake their tokens to specific consuls, thereby delegating them their voting power. We refer to this process as "staking-based farming."
 

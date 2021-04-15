@@ -34,6 +34,8 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 
 **GTON** is a farmable governance token with a gradually increasing circulating supply, limited to **21 000 000**. ****
 
+![](.gitbook/assets/gton-emission-curve-2x%20%281%29.png)
+
 GTON is minted according to the following emission formula:
 
 $$

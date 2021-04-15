@@ -34,8 +34,7 @@ As a result, the Ethereum account owner can use DeFi services in any other block
 
 ## How does the Graviton governance work?
 
-Graviton is governed by decentralized governance farming \(DGF\), a novel DAO concept for self-financing, decentralized development and governance token issuance.  
-
+Graviton is governed by decentralized  farming, a novel DAO concept for self-financing, decentralized development and governance token issuance.
 
 This approach includes several features:
 
@@ -45,24 +44,15 @@ A contribution to the treasury ensures a user a governance role and power, allow
 
 Early backers receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. 
 
+### SPI \(Strategic Partners & Investors\) Allocation
+
+We are also designating a separate allocation for strategic partners to achieve flexibility in project funding, in provision of liquidity, as well as an increased utility and investment attractiveness of the GTON token. Now, alongside a 10% allocation to early birds, 20% of the allocation is assigned to strategic deals with potential partners \(partners, integrations, listings and investors\). This separation prevents large deposits from our strategic partners from diluting the shares of EB participants, which will result in a fairer community-driven launch.
+
 ### Governance roles determination
 
 The Graviton launch scheme stipulates several roles, which are described in the table below:
 
-| role | % from mined GTON supply | description | role timeline |
-| :--- | :--- | :--- | :--- |
-| treasury | 4.50% | treasury smart contract account | permanent |
-| oracle | 6.00% | Gravity node / backend / cloud provider | impermanent |
-| consul | 5.50% | active governance decision maker | impermanent |
-| multisig | 1.00% | signature provider for smart contract migrations | impermanent |
-| backers | 7.00% | treasury contributors with a fixed share of minted GTON | permanent |
-| early backers | 10.00% | "early bird" treasury contributors whose share is never diluted with the new backers inflow | permanent |
-| community | 4.00% | active community members/ advocates/ ambassadors/partners  | impermanent |
-| influencers | 2.00% | public speakers / SMM influencers | impermanent |
-| governance stakers | 6.00% | governance staking / delegation to consuls | user |
-| сore development team  | 12.00% | developers/ designers/ product managers | impermanent |
-| LP-GTON | 18.00% | AMM, DEX liquidity providers of GTON governance  tokens | user |
-| LP-WT | 24.00% | AMM, DEX liquidity providers of wrapped tokens | user |
+
 
 Each role is supposed to perform specific functions and has its share enshrined as a percentage of the total governance farming rewards. However, the share can be changed by governance voting. Some of the roles, like consuls, influencers, community advocates are appointed by voting of all token holders.
 
@@ -72,13 +62,10 @@ One of the roles - that of a consul - implies a wider range of responsibilities.
 
 Most settings in Graviton’s management and budgeting of collected funds can be decided by governance voting. Such decisions can include:
 
-* farming ratios \(share of farmed GTON per governance role\),
 * farming constants and formulas,
 * fee accrual and distribution mechanics,
 * GTON emission curve,
 * election of consuls, etc.
-
-This approach leaves decision-making and project financing to token holders.
 
 ## What wallet should I connect to use Graviton?
 

@@ -52,7 +52,14 @@ We are also designating a separate allocation for strategic partners to achieve 
 
 The Graviton launch scheme stipulates several roles, which are described in the table below:
 
-
+| Category | Roles | Share by category |
+| :--- | :--- | :--- |
+| Backers | backers | 3,00% |
+|  | early backers | 10,00% |
+| LP | LP-GTON, LP-WT, governance stakers | 33,00% |
+| Strategic partners | partners and investors | 20,00% |
+| Operations | treasury, oracle, community, influencers | 14,00% |
+| Core Contributors | consuls, core development team, multisig | 20,00% |
 
 Each role is supposed to perform specific functions and has its share enshrined as a percentage of the total governance farming rewards. However, the share can be changed by governance voting. Some of the roles, like consuls, influencers, community advocates are appointed by voting of all token holders.
 

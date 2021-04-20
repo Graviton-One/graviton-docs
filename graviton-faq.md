@@ -40,9 +40,7 @@ This approach includes several features:
 
 ### Collecting funds in stablecoins to a treasury 
 
-A contribution to the treasury ensures a user a governance role and power, allowing them to participate in governance farming. For supplying liquidity at the early-bird stage, a user is granted an early-backer role. This advantage is not available when supplying at later stages.
-
-Early backers receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. 
+A contribution to the treasury ensures a user a governance role and power, allowing them to participate in governance farming. For supplying liquidity at the early-bird stage, a user is granted an early-backer role. Early backers receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. This advantage is not available when supplying at later stages.
 
 ### SPI \(Strategic Partners & Investors\) Allocation
 

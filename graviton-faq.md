@@ -69,7 +69,6 @@ Most settings in Graviton’s management and budgeting of collected funds can be
 
 * farming constants and formulas,
 * fee accrual and distribution mechanics,
-* GTON emission curve,
 * election of consuls, etc.
 
 ## What wallet should I connect to use Graviton?

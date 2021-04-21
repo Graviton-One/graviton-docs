@@ -71,24 +71,24 @@ Most settings in Graviton’s management and budgeting of collected funds can be
 
 ## What is GTON?
 
-GTON is a farmable governance token with a gradually increasing circulating supply, limited to 21,000,000. GTON is used to pay Graviton fees and as farming rewards, acting as the Graviton system’s key fuel. 
+GTON is a governance and LP reward token with a max supply of 21 000 000. ****
 
 ## How do I get GTON?
 
-Initially, GTON can be farmed on the Graviton portal by supplying stablecoins to the treasury. Later on, GTON will be paid as a reward for issuing wrapped tokens, providing liquidity on whitelisted AMM services and by staking already farmed GTON. 
+Initially, a share in GTON can be secured on the Graviton portal by supplying stablecoins to the treasury. Later on, GTON will be paid as a reward for issuing wrapped tokens, providing liquidity on whitelisted AMM services and by staking already farmed GTON. 
 
 ## When can I start farming GTON?
 
 GTON farming will be initially available to early backers. Subsequently, public governance farming will be launched and an opportunity to supply stablecoins to the treasury will become available for regular backers. Other farming options will be launched in late Q2.
 
-![](.gitbook/assets/2021-03-31-23.17.38%20%281%29.jpg)
+![](.gitbook/assets/graviton_milestones_new-2x-2.png)
 
 ## How can I see my farmed GTON?
 
 Go to the Portfolio section. Make sure that you’re connected to your MetaMask wallet. In this section, you can see:
 
-* your funds invested in the treasury \(early-backer share or baсker share\) as percentage of the total treasury fund and in $,
-* your farmed GTON for treasury supply \(governance farming\).
+* your funds invested in the treasury \(early-bird share or baсker share\) as percentage of the total treasury fund and in $,
+* your farmed GTON for treasury supply.
 
 In subsequent releases, the following information will be added:
 

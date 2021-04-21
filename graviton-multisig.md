@@ -1,8 +1,8 @@
 # Multisig
 
-The primary goal of Graviton, while gaining momentum and beyond, is to construct a robust governance system around the incentivization mechanics of liquidity for interchain wrapped assets. In this governance system, the holders of GTON will be vested with a voting power on the direction of Graviton development: the polling of holders’ decisions will be conducted through offchain voting, whereas the protocol updates with the associated alterations to the smart contracts will require a multisignature procedure. Thus, all the smart contracts of Graviton will be signed through a multisignature, with the developers of Graviton and various representatives from the most prominent and respected DeFi projects participating as signatories.
+One of the major goals of Graviton, while gaining momentum and beyond, is to construct a robust management system around the incentivization mechanics of liquidity for interchain wrapped assets. In this system, the holders of GTON will be vested with a voting power on the direction of Graviton development: the polling of holders’ decisions will be conducted through offchain voting, whereas the protocol updates with the associated alterations to the smart contracts will require a multisignature procedure. Thus, the smart contracts of Graviton will be signed through a multisignature, with the developers of Graviton and various representatives from the most prominent and respected DeFi projects participating as signatories.
 
-The composition of participants will change as the project develops. Adding a new multisig member happens through a nomination of a new address and an approval through voting by all token holders. The exact personal identities of multisig providers will not be revealed, which does not preclude a multisig signatory from disclosing their own identity to the public if they so choose.
+The composition of participants will change as the project develops. The exact personal identities of multisig providers will not be revealed, which does not preclude a multisig signatory from disclosing their own identity to the public if they so choose.
 
 **Among the first line-up of multisig participants \(6/10 consensus is required\):**
 
@@ -19,7 +19,7 @@ The composition of participants will change as the project develops. Adding a ne
 
 This lineup will be relevant for all the smart contracts of Graviton infrastructure at the Early Birds stage of the launch and during Wrapped Tokens LP-Farming. 
 
-This two-stage configuration, with voting/proposals by tokenholders and direct alteration of smart contracts via multisig, will ensure an open and transparent development of Graviton, flexible management of the Treasury fund and seamless migration of infrastructure-critical smart contracts. 
+This two-stage configuration, with voting/proposals by tokenholders and direct alteration of smart contracts via multisig, will ensure an open and transparent development of Graviton and seamless migration of infrastructure-critical smart contracts. 
 
 The address of the Multisig contract is: [0x953555e0Af401Bd031a5a53c72EFa81fae464276](https://etherscan.io/address/0x953555e0Af401Bd031a5a53c72EFa81fae464276)
 

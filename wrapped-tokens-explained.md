@@ -1,6 +1,6 @@
 # Wrapped Tokens Explained
 
-The DeFi ecosystem originated within Ethereum, and despite tremendous fees, most liquidity and building are still situated there. A key technical solution that stimulated the influx of capital into DeFi was the so-called AMM DEX, or automated market-making decentralized exchanges. The most inventive underlying concept of AMM DEX is an LP token, which is essentially an asset that represents the share of a liquidity provider in a liquidity pool of some AMM service.
+The DeFi ecosystem originated within Ethereum, and despite tremendous fees, most liquidity and project building are still situated there. A key technical solution that stimulated the influx of capital into DeFi was the so-called AMM DEX, or automated market-making decentralized exchanges. The most inventive underlying concept of AMM DEX is an LP token, which is essentially an asset that represents the share of a liquidity provider in a liquidity pool of some AMM service.
 
 ### LP tokens structure
 

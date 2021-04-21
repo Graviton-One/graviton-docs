@@ -28,7 +28,7 @@ Where C\(g\) — group \(category\) token allocation — g, y\(t\) — emission 
 
 For the EB group, the parameter C is 2.1 mln.
 
-A simplified piecewise scheme shows that by the end of the first week, 5% \(105k tokens\) will be unlocked, 9% \(189k\) by the end of the 2nd week, 16% \(336k\) by the end of the month, 75% by the end of the year, 95% by the end of the next year, and so on.![](https://miro.medium.com/max/60/0*tPRMr8CFm8aX87Yv?q=20)![](https://miro.medium.com/max/2612/0*tPRMr8CFm8aX87Yv)
+A simplified piecewise scheme shows that by the end of the first week, 5% \(105k tokens\) will be unlocked, 9% \(189k\) by the end of the 2nd week, 16% \(336k\) by the end of the month, 75% by the end of the year, 95% by the end of the next year, and so on.![](https://miro.medium.com/max/2612/0*tPRMr8CFm8aX87Yv)
 
 A similar unlocking formula will be applied to all categories except LP and Ops. For Contributors, allocation will start in three months after the end of EB period; for SPI, two weeks after a finalization of the deal and transaction.
 

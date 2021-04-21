@@ -12,29 +12,17 @@
 
 **Graviton is a universal wrapped tokens’ liquidity incentivization solution, providing seamless access to multiple chains with an Ethereum mirror account and creating a reward-based synergetic economy around wrapped assets.**
 
-**Graviton unites the communities of multiple chains/AMMs/DeFi projects and provides them with governance tools for boosting liquidity and increasing yield generation.**
+**Graviton unites the communities of multiple chains/AMMs/DeFi projects and provides them with tools for boosting liquidity and increasing yield generation.**
 
-**Graviton provides an infrastructure for Ethereum-account owners to let them effortlessly access a wide range of alternative chains via mirror accounts.\***
+**Graviton also provides an infrastructure for Ethereum-account owners to let them effortlessly access a wide range of alternative chains via mirror accounts.\***
 
 _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other than Ethereum, carries out \(“mirrors”\) transactions signed by an Ethereum account owner.
 
-
-
-## How it works
-
-1. A mirror account is created in the target chain to run transactions signed by the corresponding Ethereum account owner.
-2. Wrapped tokens are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via [Gravity](https://gravity.tech), Multichain.xyz, or potentially other bridge solutions.
-3. AMMs enable swaps of wrapped tokens and liquidity provision.
-4. A transaction fees controller charges users in ETH tokens, which are converted to native tokens of other platforms to pay for transactions with a mirror account. The fees size is equivalent to the standard transaction fees of the destination chain.
-5. Governance is based on DAO model and stimulates liquidity through reward system.
-
-**As a result, an owner of an Ethereum account can use DeFi services in any other blockchain networks - Binance Smart Chain, Tron, Avalanche, Waves, Fantom, Huobi Eco Chain, by signing transactions with MetaMask, Ledger or Trezor.**
-
 ## GTON
 
-**GTON** is a farmable governance token with a gradually increasing circulating supply, limited to **21 000 000**. ****
+**GTON** is a governance token with a max supply of **21 000 000**. ****
 
-GTON is minted according to the following emission formula:
+GTON is unlocked gradually according to the following formula:
 
 $$
 y = \frac{a}{(x+\frac{a}{c}+o)+c},\\
@@ -44,9 +32,36 @@ y = \frac{a}{(x+\frac{a}{c}+o)+c},\\
 \text{x is Ethereum's current block count}
 $$
 
-GTON is used to pay Graviton fees and farming rewards, acting as the Graviton system’s key fuel.
+GTON is used to pay Graviton fees and farming rewards, providing utility for the Graviton system.
 
 ![](.gitbook/assets/gton_utility.png)
+
+## Why will GTON be in demand?
+
+— Access to other chains:
+
+Graviton will be utilized by the communities of the integrated networks reaching new markets. Due to its blockchain- and bridge-agnostic approach, Graviton is a universal hub for inter-chain liquidity and activity.
+
+— Yield increase for LPs:
+
+GTON will act as an LP farming reward for wrapped tokens 
+
+— Initial Liquidity from EB Treasury:
+
+Early birds’ Treasury will be used as collateral for GTON initial liquidity to set Graviton’s tokenomics in motion
+
+— Product utility:
+
+GTON will be used to pay fees for operations with mirror accounts, i.e. wrapping and unwrapping tokens
+
+— Additional yield:
+
+GTON will be stakable and generate extra yield
+
+— Governance:
+
+GTON will act as an influence tool for promotion of wrapped tokens and their liquidity incentivization, as well as of AMMs, and entire ecosystems  
+
 
 ## Milestones
 
@@ -54,13 +69,13 @@ GTON is used to pay Graviton fees and farming rewards, acting as the Graviton sy
 
 ## Join Graviton as an Early Bird
 
-**Contribute to the treasury as an early bird:**
+**Lock funds in the treasury as an early bird:**
 
 You will:
 
 • empower [VenLab](https://venlab.dev), a team with great InDeFi experience that created the [Neutrino](https://neutrino.at) and [Gravity protocols](https://gravity.tech), 
 
-• get an early-bird investment opportunity, which ensures your permanent governance role,
+• start receiving GTON according to the unlocking schedule and permanently enshrine your share in the treasury,
 
-• start farming GTON and permanently enshrine your share in the treasury.
+• automatically provide initial liquidity for GTON and set the entire tokenomics in motion
 

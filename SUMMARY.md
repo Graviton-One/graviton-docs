@@ -3,6 +3,7 @@
 * [Graviton: Overview](README.md)
 * [Wrapped Tokens Explained](wrapped-tokens-explained.md)
 * [Multisig](graviton-multisig.md)
+* [GTON Unlocking Schedule](gton-unlocking-schedule.md)
 * [Farming Options](graviton-farming-options.md)
 * [Interchain Treasury Farming Architecture](treasury.md)
 * [FAQ](graviton-faq.md)

@@ -13,11 +13,11 @@ This type of farming includes two options: early-backers’ treasury farming and
 
 ### Early-backers’ treasury farming
 
-Early-backers’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUSD, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors, or early backers, and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early backers in proportion to their input. 
+Early-backers’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUSD, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early birds in proportion to their input. The usage of early backers’ Treasury as collateral for GTON initial liquidity is crucial to set Graviton’s tokenomics in motion.
 
 ### Backers’ treasury farming
 
-Following the early-backer period, the regular-backer option will become available, with no minimum investment limit. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. These investments will form the second part of the treasury fund, alongside the early backers' portion. Users will be able to make a non-refundable deposit and collect an income in GTON tokens – that is, to farm GTON, proportionally to their share in the entire backers’ share equal to 3% of the whole GTON supply. However, unlike the early-bird backer's fixed share, the share of regular backers will be diluted as the number of backers grows.  
+Following the early-backer period, the regular-backer option will become available, with no minimum investment limit. All investments will have to be made in USD-pegged stablecoins, such as DAI, USDT, USDC, BUSD, HUSD, USDT, TUDS, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. However, unlike the early-bird's fixed share, the share of regular backers will be diluted as their number grows.  
 
 
 ## Staking-based farming

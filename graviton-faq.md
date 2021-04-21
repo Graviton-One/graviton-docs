@@ -34,13 +34,11 @@ As a result, the Ethereum account owner can use DeFi services in any other block
 
 ## How does the Graviton governance work?
 
-Graviton is governed by decentralized  farming, a novel DAO concept for self-financing, decentralized development and governance token issuance.
+Graviton governance is based on several concepts:
 
-This approach includes several features:
+### Collecting funds in stablecoins to a treasury
 
-### Collecting funds in stablecoins to a treasury 
-
-A contribution to the treasury ensures a user a governance role and power, allowing them to participate in governance farming. For supplying liquidity at the early-bird stage, a user is granted an early-backer role. Early backers receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. This advantage is not available when supplying at later stages.
+A contribution to the treasury ensures a user a governance role and power, allowing them to unlock a share of GTONs. For supplying liquidity at the early-bird stage, a user is granted an early-bird role. Early birds receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. This advantage is not available when supplying at later stages.
 
 ### SPI \(Strategic Partners & Investors\) Allocation
 
@@ -53,7 +51,7 @@ The Graviton launch scheme stipulates several roles, which are described in the 
 | Category | Roles | Share by category |
 | :--- | :--- | :--- |
 | Backers | backers | 3,00% |
-|  | early backers | 10,00% |
+|  | early birds | 10,00% |
 | LP | LP-GTON, LP-WT, governance stakers | 33,00% |
 | Strategic partners | partners and investors | 20,00% |
 | Operations | treasury, oracle, community, influencers | 14,00% |
@@ -70,10 +68,6 @@ Most settings in Graviton’s management and budgeting of collected funds can be
 * farming constants and formulas,
 * fee accrual and distribution mechanics,
 * election of consuls, etc.
-
-## What wallet should I connect to use Graviton?
-
-Graviton takes advantage of Ethereum accounts to operate with assets. Connect to your MetaMask for signing transactions. In the subsequent releases, the option of using Ledger, Trezor or other wallets will be added.
 
 ## What is GTON?
 

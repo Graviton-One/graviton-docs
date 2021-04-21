@@ -20,7 +20,7 @@ _\*Ethereum mirror accounts:_ A mirror account in a destination chain, other tha
 
 ## GTON
 
-**GTON** is a governance token with a max supply of **21 000 000**. ****
+**GTON** is a governance and LP reward token with a max supply of **21 000 000**. ****
 
 GTON is unlocked gradually according to the following formula:
 

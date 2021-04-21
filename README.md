@@ -75,7 +75,7 @@ You will:
 
 • empower [VenLab](https://venlab.dev), a team with great InDeFi experience that created the [Neutrino](https://neutrino.at) and [Gravity protocols](https://gravity.tech), 
 
-• start receiving GTON according to the unlocking schedule and permanently enshrine your share in the treasury,
+• start receiving GTON according to the unlocking schedule and permanently enshrine your GTON share,
 
 • automatically provide initial liquidity for GTON and set the entire tokenomics in motion
 

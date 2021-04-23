@@ -52,7 +52,7 @@ In the token wrapping process, assets from origin chains locked in bridges are s
 
 Providing strategic DeFi partners, funds and ecosystems with a share which does not dilute others will allow for preserving the community’s impact and at the same time making consistent investment offers. All negotiations with such large-scale actors will be conducted transparently by the core contributors and multisig providers.
 
-Although no deals have been made yet and none are planned until the end of EB, we have made plans to negotiate deals with representatives of large blockchains & ecosystems such as Fantom, Waves, Binance Chain, Huobi Chain etc, and their respective funds. Other potential collaborators are top-tier VC funds that could provide liquidity across the entire range of Graviton integrations, including LP for the assets of those projects from their portfolios that aim to branch out into cross-chain DeFi and can facilitate this process via Graviton incentive systems.
+Although no deals have been made yet and none are planned until the end of EB, we have made plans to negotiate deals with representatives of large blockchains & ecosystems such as Fantom, Waves, Binance Chain, Huobi Chain etc, and their respective funds. Other potential collaborators are top-tier VC funds that could provide liquidity across the entire range of Graviton integrations, including LP for the assets of those projects from their portfolios that aim to branch out into cross-chain DeFi and can facilitate this process via Graviton incentive programs.
 
 ### Operations & Core Contributors
 

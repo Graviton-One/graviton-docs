@@ -22,7 +22,9 @@ Initially, GTON will be available for withdrawal on the following networks: Ethe
 
 Unlocking of the ownable allocation into a claimable allocation follows the formula:
 
-CA\(g,t\) = \(C\(g\)\*10⁶\)/y\(t\),
+$$
+CA(g,t) = (C(g)*10⁶)/y(t),
+$$
 
 Where C\(g\) — group \(category\) token allocation — g, y\(t\) — emission formula:![](https://miro.medium.com/max/1364/0*WW0Fn8gMXuntAXF-)
 

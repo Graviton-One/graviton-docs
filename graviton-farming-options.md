@@ -2,7 +2,7 @@
 
 ![](https://lh6.googleusercontent.com/JmsIHBqHtYo0Jz96k_gqgO3SPZhcukNypQlvXo6ptwB44wzsWP1gjLorO2wiQie28BXI3kkMilKoyM2y_d3aJWW0ci4FrqBij74sBIwcxTKdIERPPof1k1poGUnDhKCm2rtGoIGB)
 
-Graviton's yield farming system consists of three components: treasury farming of the GTON token, staking of farmed GTONs and the inter-chain DeFi reward.
+Graviton's yield farming system consists of three components: treasury farming that establishes the initial liquidity for GTON, staking of farmed GTONs and the inter-chain DeFi reward.
 
 These three components of the Graviton system, and the parameters thereof, can be configured by community governance.  
 
@@ -11,9 +11,9 @@ These three components of the Graviton system, and the parameters thereof, can b
 
 This type of farming includes two options: early-backers’ treasury farming and backers’ treasury farming
 
-### Early-backers’ treasury farming
+### Early-birds’ treasury farming
 
-Early-backers’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUSD, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early birds in proportion to their input. The usage of early backers’ Treasury as collateral for GTON initial liquidity is crucial to set Graviton’s tokenomics in motion.
+Early-birds’ treasury farming will be available for a limited period after the launch of Graviton. The minimum investment is the equivalent of $1,000 in DAI, USDT, USDC, BUSD, HUSD, TUSD, UST, sUSD, mUSD, USDK, USDP, GUSD or USDN. Users that make investments during this period become early-bird investors and are entitled to a 10% share of the entire farming income in GTON, which remains a fixed percentage after the early-bird period ends and never gets diluted. The 10% share will be divided between all early birds in proportion to their input. The usage of early backers’ Treasury as collateral for GTON initial liquidity is crucial to set Graviton’s tokenomics in motion.
 
 ### Backers’ treasury farming
 
@@ -43,7 +43,7 @@ One role, consuls, adopts increased governance powers and therefore increased re
 
 Users who have farmed GTON tokens with their treasury investment, will be able to stake their tokens to specific consuls, thereby delegating them their voting power. We refer to this process as "staking-based farming."
 
-Tokens can be sent to staking-based farming automatically, when distributed between the consuls based on the latter's default weights in total governance \(consuls' default weights can also be set by governance\). Alternatively, tokens can be sent to farming manually, with users deciding how many tokens will be sent to which consul. Staking-based farming will account for 6% of the total GTON supply, but this proportion can be changed through a consul's proposal and subsequent voting by all GTON holders.
+Tokens can be sent to staking-based farming automatically, when distributed between the consuls based on the latter's default weights in total governance \(consuls' default weights can also be set by governance\). Alternatively, tokens can be sent to farming manually, with users deciding how many tokens will be sent to which consul. 
 
 ### Where are GTON staking rewards coming from?
 

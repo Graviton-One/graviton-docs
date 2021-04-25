@@ -24,7 +24,7 @@ Since Graviton is aiming to connect ecosystems together and bring in multiple la
 
 At the same time, the approach to funding must be balanced to demotivate any short-term dumping strategies and equalize the influence of the “big players” with the broader community. This is the main reason we are designating a separate allocation for strategic partners, ecosystems, and funds, to achieve flexibility in project funding, in provision of liquidity, as well as an increased utility and investment attractiveness of the GTON token. Now, alongside a 10% allocation to early birds, 20% of the allocation is assigned to strategic deals with ecosystem-level actors. This separation prevents large deposits from our strategic partners from diluting the shares of EB participants, which will result in a fairer and more even community-driven launch.
 
-## Governance roles and farming allocations <a id="f6aa"></a>
+## Governance roles and token allocations <a id="f6aa"></a>
 
 Analyzing potential ways of forming the treasury, a hybrid approach with initial community farming and a separate allocation for Strategic Partners and Investors, which include ecosystem-level actors, VC funds, and AMMs, was identified to be the most promising means of funding.
 

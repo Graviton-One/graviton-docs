@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Concepts](README.md)
-* [Introduction](https://drive.google.com/file/d/1V9K1OT0dyyCWigldH6XXs2LW6Q10Tn0p/view)
+* [Introduction](https://drive.google.com/file/d/1lJOwkGJGrlbqjnQzG60Wv2OAcyK3uuG6/view)
 * [Wrapped Tokens Explained](wrapped-tokens-explained.md)
 * [Treasury Farming and Governance Roles](treasury-farming-and-governance-roles.md)
 * [Farming Options](graviton-farming-options.md)

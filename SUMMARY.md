@@ -7,7 +7,7 @@
 * [Treasury as Collateral for GTON](treasury-as-collateral-for-gton.md)
 * [GTON Unlocking Schedule](gton-unlocking-schedule.md)
 * [Multisig](graviton-multisig.md)
-* [Interchain Treasury Farming Architecture](treasury.md)
+* [Interchain Treasury Architecture](treasury.md)
 * [FAQ](graviton-faq.md)
 * [Website](https://graviton.one/)
 * [Light Paper](https://alexpupyshev.medium.com/the-beginning-of-graviton-a-seamless-inter-chain-defi-experience-with-reasonable-fees-4d52dd5fab84)

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Graviton: Overview](README.md)
+* [Concepts](README.md)
+* [Introduction](https://drive.google.com/file/d/1V9K1OT0dyyCWigldH6XXs2LW6Q10Tn0p/view)
 * [Wrapped Tokens Explained](wrapped-tokens-explained.md)
 * [Treasury Farming and Governance Roles](treasury-farming-and-governance-roles.md)
 * [Farming Options](graviton-farming-options.md)
@@ -9,7 +10,6 @@
 * [Multisig](graviton-multisig.md)
 * [Interchain Treasury Farming Architecture](treasury.md)
 * [FAQ](graviton-faq.md)
-* [Graviton Website](https://graviton.one/)
+* [Website](https://graviton.one/)
 * [Light Paper](https://alexpupyshev.medium.com/the-beginning-of-graviton-a-seamless-inter-chain-defi-experience-with-reasonable-fees-4d52dd5fab84)
-* [White Paper](https://arxiv.org/pdf/2009.05540)
 

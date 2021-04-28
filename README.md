@@ -69,7 +69,7 @@ GTON will act as an influence tool for promotion of wrapped tokens and their liq
 
 ## Join Graviton as an Early Bird
 
-**Lock funds in the treasury as an early bird:**
+Participate in Early Birds by depositing an equivalent of at least $1,000 in DAI, USDT, USDC, BUSD, HUSD, UST, USDP, or USDN **-&gt;** [**Graviton Early Birds**](https://v1.graviton.one%20%20) ****
 
 You will:
 

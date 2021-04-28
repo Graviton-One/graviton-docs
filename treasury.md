@@ -1,5 +1,7 @@
 # Interchain Treasury Architecture
 
+![](.gitbook/assets/image%20%286%29.png)
+
 _Graviton governance and initial liquidity is set in motion through treasury farming, a novel concept that revolves around automatically bootstrapping liquidity and issuing a governance token. This page briefly describes the mechanics of farming as it unfolds in the Treasury of the Graviton project._ 
 
 ![](.gitbook/assets/image%20%283%29.png)

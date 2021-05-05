@@ -8,7 +8,8 @@ GTON is deflationary by design: its maximum supply is fixed at 21 million tokens
 
 There are several roles in the Graviton’s DAO:
 
-* backers: those who made a deposit into the treasury at an early stage \(early birds or early backers \(EB\)\) or at later periods \(regular backers\);
+* early birds or early backers: those who made a deposit into the treasury at an early stage \(early birds or early backers \(EB\)\)
+* backers: those who purchase tokens during the IDOs 
 * strategic partners and investors \(SPI\): these are potential top-level industry players or strategic investors who enter the treasury in subsequent stages, which may include ecosystem-level actors, VC funds, and AMMs. This category of treasury investors does not undermine early backers’ share and will be negotiated individually case by case in a transparent manner;
 * contributors are the development team, signers of multisig and governers of the DAO;
 * operations, or, in other words, expenditure for operational needs, is an allocation aimed at working with the community, like bounty and airdrops, and market making;

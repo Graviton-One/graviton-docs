@@ -38,7 +38,7 @@ Graviton governance is based on several concepts:
 
 ### Collecting funds in stablecoins to a treasury
 
-A contribution to the treasury ensures a user a governance role and power, allowing them to unlock a share of GTONs. For supplying liquidity at the early-bird stage, a user is granted an early-bird role. Early birds receive a fixed share of the total governance rewards for the future periods. In contrast, regular backers’ share gets diluted as new participants contribute to the treasury. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. This advantage is not available when supplying at later stages.
+A contribution to the treasury ensures a user a governance role and power, allowing them to unlock a share of GTONs. For supplying liquidity at the early-bird stage, a user is granted an early-bird role. Early birds receive a fixed share of the total governance rewards for the future periods. It is important to note that only the future size of the farming reward decreases for contributors, while everyone still joins the treasury on equal terms. This advantage is not available when supplying at later stages.
 
 ### SPI \(Strategic Partners & Investors\) Allocation
 

@@ -38,7 +38,7 @@ Below is the design for the governance roles:
 
 The EB share remains undiluted by regular backers, and with a new option for the strategic investors to have a separate fixed share, there is more opportunity for the core community to be first in line to secure a part of the planned emission. Graviton adheres to a fair initial token distribution through the Treasury Farming mechanics. The project has been launched with a deposit-only phase, meaning that there will be no difference in share distribution whether a user’s deposit occurs at the beginning of the period or at the end, since farming itself is going to start at a later date.
 
-Backers’s share remains diluted and will be available, as planned, right after the early-birds stage as part of the IDO listing strategy, so to give more chances for regular users to have their piece of impact and part of the treasury farming, as awareness about Graviton is growing.
+Backers’ share remains diluted and will be available, as planned, right after the early-birds stage as part of the IDO listing strategy, so to give more chances for regular users to have their piece of impact and part of the treasury farming, as awareness about Graviton is growing.
 
 ### LP
 

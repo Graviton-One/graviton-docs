@@ -12,8 +12,6 @@ In the smart contract system on the Fantom network, the addresses of backers fro
 
 The original GTONs will first become available on the Fantom blockchain, however by using [multi-chain](https://multichain.xyz/), Gravity SuSy, or other bridges, the holders of GTONs will be able to swap those into other blockchain networks, such as BSC, Ethereum, Heco, Waves, Avalanche, Tron, Polka or Solana. The holders will be able to freely choose what bridges to use for swapping, depending on their needs.
 
-At any time, the existing regular backers can add more to their treasury balance, thus increasing their current share and diluting the share of future farming rewards paid out to the upcoming users. It is worth noting that after the early bird period, the shares of early birds from farming are no longer diluted and remain fixed even with the influx of new backers. 
-
 In the strict sense, Treasury deposits are not withdrawable. However, in case the holders of Graviton tokens vote to withdraw their deposits via governance, the withdrawal can be arranged.
 
 The Treasury is primarily intended to serve as a source of initial liquidity for GTON and for its price discovery via forming an initial market cap. A key function of Treasury farming is to build an integral foundation for a sustainable financial architecture of Graviton in the future, revolving around providing initial liquidity for GTON.

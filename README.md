@@ -2,6 +2,8 @@
 
 ![](https://miro.medium.com/max/6400/1*elIGyZ2JhOOfvYeEh-Gstw.png)
 
+_**NB: The GTON token on ETH has been launched. This is the only correct GTON token: 0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d \(**_[_**https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d**_](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d)_**\) Please beware of copycat/scam tokens.**_
+
 _VentuaryLab presents a novel inter-chain concept that combines a liquidity incentivization system for wrapped tokens with a bridge aggregator as part of its infrastructure._
 
 ## Intro & issues of the DeFi Space <a id="b286"></a>
@@ -40,7 +42,7 @@ The Graviton system, which will serve as an aggregator of multiple bridge soluti
 
 ## Reward-based economy around wrapped tokens <a id="b7b1"></a>
 
-Incentives are what the Graviton system is driven by. Reward-based economy around LP rewards farmed elsewhere is powered by GTON, Graviton’s governance token. GTON has straightforward utility:
+Incentives are what the Graviton system is driven by. Reward-based economy around LP rewards farmed elsewhere is powered by [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d), Graviton’s governance token. [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) has straightforward utility:
 
 * Selecting LP tokens from pools with wrapped tokens to be included in the incentivisation programs \(Catalyst & Boost\), with the aim of increasing the liquidity and TVL of your favorite project
 * As payment for fees to execute different operations within Graviton for instance wrapping or unwrapping tokens
@@ -49,19 +51,19 @@ Incentives are what the Graviton system is driven by. Reward-based economy aroun
 
 ## Tokenomics <a id="bd37"></a>
 
-The total supply of GTON is capped at 21 million tokens. Its unlocking occurs according to a slowly decaying, deflationary model. The original GTONs will first become claimable on the Fantom blockchain, however by using [multichain](https://multichain.xyz/).xyz, Gravity SuSy, RenVM or other bridges, the holders of GTONs will be able to swap their claimed GTONs into other blockchain networks, such as BSC, Ethereum, Heco, Waves, Avalanche, Tron, Polka or Solana.
+The total supply of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) is capped at 21 million tokens. Its unlocking occurs according to a slowly decaying, deflationary model. The original GTONs will first become claimable on the Fantom blockchain, however by using [multichain](https://multichain.xyz/).xyz, Gravity SuSy, RenVM or other bridges, the holders of GTONs will be able to swap their claimed GTONs into other blockchain networks, such as BSC, Ethereum, Heco, Waves, Avalanche, Tron, Polka or Solana.
 
 ## Treasury <a id="f3f9"></a>
 
-Treasury is a multisig contract controlled by the team and the first supporters of Graviton, selected among the top players of the DeFi space. Treasury stores all the undistributed GTON allocations, LP-GTON tokens and stablecoins deposited during the Early Birds period to provide initial liquidity for GTON. In the strict sense, Treasury deposits are not withdrawable. However, in case the holders of Graviton tokens vote to withdraw their deposits via governance, the withdrawal can be arranged.
+Treasury is a multisig contract controlled by the team and the first supporters of Graviton, selected among the top players of the DeFi space. Treasury stores all the undistributed [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) allocations, LP-GTON tokens and stablecoins deposited during the Early Birds period to provide initial liquidity for GTON. In the strict sense, Treasury deposits are not withdrawable. However, in case the holders of Graviton tokens vote to withdraw their deposits via governance, the withdrawal can be arranged.
 
-The deposit option is available for the initial supporters of Graviton willing to provide initial liquidity for the GTON token and enable its price discovery — early backers, or early birds. In order to achieve sustainable growth, the team is planning to seek contributions by strategic partners and investors later, when the token has a price and a market cap.
+The deposit option is available for the initial supporters of Graviton willing to provide initial liquidity for the [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) token and enable its price discovery — early backers, or early birds. In order to achieve sustainable growth, the team is planning to seek contributions by strategic partners and investors later, when the token has a price and a market cap.
 
-Treasury serves as a GTON collateral and allows for price discovery prior to the start of the token emission. It is also aimed to provide AMM initial liquidity at the IDO stage which starts right after the early-bird deposit period.
+Treasury serves as a [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) collateral and allows for price discovery prior to the start of the token emission. It is also aimed to provide AMM initial liquidity at the IDO stage which starts right after the early-bird deposit period.
 
 ## Allocations <a id="dfa2"></a>
 
-The GTON allocation lineup includes several roles which are assigned with particular shares of GTON total supply. They are indicated in the table below:![](https://miro.medium.com/max/60/0*aGVZDAt0cBHlmlq2?q=20)![](https://miro.medium.com/max/3200/0*aGVZDAt0cBHlmlq2)
+The [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) allocation lineup includes several roles which are assigned with particular shares of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) total supply. They are indicated in the table below:![](https://miro.medium.com/max/60/0*aGVZDAt0cBHlmlq2?q=20)![](https://miro.medium.com/max/3200/0*aGVZDAt0cBHlmlq2)
 
 For all the roles within Graviton, there will be token vesting according to the schedule.![](https://miro.medium.com/max/60/0*Cw4tWnNtcBy-gg1O?q=20)![](https://miro.medium.com/max/3200/0*Cw4tWnNtcBy-gg1O)
 
@@ -69,7 +71,7 @@ For all the roles within Graviton, there will be token vesting according to the 
 
 **Core contributors** — those who are involved with the project development e.g. project founder, developers, multisig signers, as well as investment, technical, and legal advisors, will also have vesting identical to EB formula, which starts in three months after the end of EB.
 
-In addition, there are allocations for LP, Backers, and Operations. **LPs** are allocations for incentivization of wrapped tokens via reward programs such as Catalyst & Boost. **Ops** — these are infrastructure investments \(oracles/bridges\), airdrops, bug bounties, audits and ambassadors. **Backers** is a special allocation for single sided IDOs and GTON initial liquidity for IDOs.
+In addition, there are allocations for LP, Backers, and Operations. **LPs** are allocations for incentivization of wrapped tokens via reward programs such as Catalyst & Boost. **Ops** — these are infrastructure investments \(oracles/bridges\), airdrops, bug bounties, audits and ambassadors. **Backers** is a special allocation for single sided IDOs and [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) initial liquidity for IDOs.
 
 All of those allocations are locked in the Treasury indefinitely and will be unlocked in small portions for growth and engagement purposes identified by team, governance and multisig.
 
@@ -77,13 +79,13 @@ All of those allocations are locked in the Treasury indefinitely and will be unl
 
 To work as an incentivization instrument, the token should have liquidity, volumes, and attractiveness for traders from the beginning.
 
-Early birds, also dubbed as early backers, are the early supporters of the Graviton system participating in accumulation of the initial liquidity in stablecoins as a financial foundation for GTON tokenomics.
+Early birds, also dubbed as early backers, are the early supporters of the Graviton system participating in accumulation of the initial liquidity in stablecoins as a financial foundation for [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) tokenomics.
 
 * Early-bird period lasts for 2 weeks before the launch
 * Allocation — 10%
 * Liquidity is supplied to the Treasury contract based on Gnosis Safe Multisig
 
-At the end of the EB stage, the initial capitalisation is established and a starting price is determined via a price discovery approach before the token is listed on DEX AMMs. Thus, GTON token will instantly gain liquidity volume and attractiveness for traders.
+At the end of the EB stage, the initial capitalisation is established and a starting price is determined via a price discovery approach before the token is listed on DEX AMMs. Thus, [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) token will instantly gain liquidity volume and attractiveness for traders.
 
 At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 8 preselected liquid USD-pegged stablecoins. Treasury early backers \(or, as we call them, early birds\) can deposit a stablecoin into the treasury by transferring it to a multisig contract based on Gnosis Safe. As soon as the event of the deposit happens, it is registered by the oracles of the Gravity network and transmitted to the farm smart contract on the Fantom blockchain.
 
@@ -99,7 +101,7 @@ Impacts represent the contributors’ shares of the early-bird allocation, i.e. 
 
 What are the advantages of being EB versus a regular liquidity provider?
 
-Early birds determine the initial GTON price and its capitalization. Being directly involved with the price discovery process, they receive the most optimal price offer for GTON. EBs can access the best conditions with the highest upside potential. Moreover, EBs receive a guaranteed and undiluted amount of GTON throughout the whole unlocking period.
+Early birds determine the initial [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) price and its capitalization. Being directly involved with the price discovery process, they receive the most optimal price offer for GTON. EBs can access the best conditions with the highest upside potential. Moreover, EBs receive a guaranteed and undiluted amount of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) throughout the whole unlocking period.
 
 In contrast, being an LP provider implies participation in the constantly launching time-limited Catalyst programs. Graviton is not a classical farm, there are no popular pairs like ETH/USDT, BNB/BUSD as on other farms. Instead, Graviton focuses on the emerging and growing projects and their tokens, currently having liquidity only on one chain, such as Ethereum, Solana, BSC, Waves, or Fantom. Liquidity incentivization programs are limited in time \(1–2 weeks\) and aimed primarily at the initial bootstrapping of a project in its non-native chains, rather than a long-term farming solution with a free token distribution.
 
@@ -115,13 +117,13 @@ SPI is a token allocation assigned for Strategic Partners & Investors. This cate
 * VCs seeking opportunities to increase the liquidity of their supported projects \(via Catalyst program\)
 * Blockchain protocols, ecosystems, AMMs, farms and other projects which join us in our goal to ensure liquidity of all tokens in various ecosystems and create user-friendly cross-chain experience
 
-All SPI deals will be announced and made after the early-bird period is completed. For such kind of investment deals, having a market cap evaluation is crucial, which will be established after the conclusion of the early-bird period and the beginning of the GTON circulation. SPIs have the same vesting period and the unlocking occurs by the same formula as for early birds, starting in two weeks after the deal is closed. SPI deals can be made within one or several years since the start of Graviton.
+All SPI deals will be announced and made after the early-bird period is completed. For such kind of investment deals, having a market cap evaluation is crucial, which will be established after the conclusion of the early-bird period and the beginning of the [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) circulation. SPIs have the same vesting period and the unlocking occurs by the same formula as for early birds, starting in two weeks after the deal is closed. SPI deals can be made within one or several years since the start of Graviton.
 
 ## Catalyst & Boost <a id="9f25"></a>
 
 Graviton Catalyst is a platform that offers primary incentives and sustainable support for **wrapped tokens’ liquidity provision.** Graviton Catalyst can help a variety of tokenized blockchain projects, such as protocols, AMMs and farms, to expand onto non-native networks incorporated into Graviton by incentivizing liquidity and drawing communities’ attention across ecosystems. The communities of participating projects are invited to get involved in short-term and middle-term programs that incentivize bootstrapping of liquidity for recently emerged wrapped tokens by providing extra LP rewards. Those who enter the pools as LPs, Graviton rewards with GTON.
 
-The Catalyst programs are limited in time by **two to three weeks,** and reweighting of the LP rewards’ allocation points occurs every week. For rewarding liquidity providers under the Catalyst program, **12%** of the total GTON supply is allocated. Members of a community can stake their GTON into governance to nominate their favorite project for participation in the Graviton Catalyst program and increase the staking yield of its LP tokens.
+The Catalyst programs are limited in time by **two to three weeks,** and reweighting of the LP rewards’ allocation points occurs every week. For rewarding liquidity providers under the Catalyst program, **12%** of the total [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) supply is allocated. Members of a community can stake their [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) into governance to nominate their favorite project for participation in the Graviton Catalyst program and increase the staking yield of its LP tokens.
 
 Once a project finishes participating in the Catalyst program, the incentivization for a particular LP token can be reinstated through the Graviton **Boost program,** in case of continued interest on behalf of the community.
 

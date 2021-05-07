@@ -27,7 +27,13 @@ $$
 CA(g,t) = (C(g)*10⁶)/y(t),
 $$
 
-Where C\(g\) — group \(category\) token allocation — g, y\(t\) — emission formula:![](https://miro.medium.com/max/1364/0*WW0Fn8gMXuntAXF-)
+Where C\(g\) — group \(category\) token allocation — g, y\(t\) — emission formula:
+
+$$
+y = \frac{-a}{(x+{a}/{c}+o)}+c
+$$
+
+_where c = 2100000, a = 11099999999999, o is the starting block of farming, x is Ethereum's current block count._
 
 For the EB group, the parameter C is 2.1 mln.
 

@@ -16,8 +16,6 @@ In the strict sense, Treasury deposits are not withdrawable. However, in case th
 
 The Treasury is primarily intended to serve as a source of initial liquidity for GTON and for its price discovery via forming an initial market cap. A key function of Treasury farming is to build an integral foundation for a sustainable financial architecture of Graviton in the future, revolving around providing initial liquidity for GTON.
 
-![](https://lh6.googleusercontent.com/999r39jGp7RvLLE1494ZnOR3kkmSRFAeFaDzJ4LUJ8Cp4VCkhuHiY5lV4-j06zo8vTcxmsFg-AW7ENBVAkr4jMKR0IYMPulCcZKLVhh7ILFIPQcu_E99NusxiKO9hC6yzytaUsgL)
-
 The primary goal of Graviton is still the same: to create a mechanism that stimulates the development of cross-chain integrations at the level of digital assets, which is only possible with further advancement of the wrapped tokens’ concept. We think that cross-chain is not a buzzword, but a major technical debt of the industry that needs to be addressed in order to open this space for new synergetic trading, product, and investment strategies that involve users across as many integrated ecosystems as possible.
 
 Farm source code: [https://github.com/Graviton-One/graviton-treasury/tree/develop](https://github.com/Graviton-One/graviton-treasury/tree/develop)

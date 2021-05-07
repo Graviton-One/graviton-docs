@@ -63,9 +63,13 @@ Treasury serves as a [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0c
 
 ## Allocations <a id="dfa2"></a>
 
-The [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) allocation lineup includes several roles which are assigned with particular shares of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) total supply. They are indicated in the table below:![](https://miro.medium.com/max/60/0*aGVZDAt0cBHlmlq2?q=20)![](https://miro.medium.com/max/3200/0*aGVZDAt0cBHlmlq2)
+The [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) allocation lineup includes several roles which are assigned with particular shares of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) total supply. They are indicated in the table below:
 
-For all the roles within Graviton, there will be token vesting according to the schedule.![](https://miro.medium.com/max/60/0*Cw4tWnNtcBy-gg1O?q=20)![](https://miro.medium.com/max/3200/0*Cw4tWnNtcBy-gg1O)
+![](https://miro.medium.com/max/3200/0*aGVZDAt0cBHlmlq2)
+
+For all the roles within Graviton, there will be token vesting according to the schedule.
+
+![](https://miro.medium.com/max/3200/0*Cw4tWnNtcBy-gg1O)
 
 **Early birds** will receive tokens right after the end of EB via daily tranches, according to a decaying unlocking formula: 1st week: 5%, 1st year: 75%, etc
 

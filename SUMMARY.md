@@ -10,4 +10,5 @@
 * [FAQ](graviton-faq.md)
 * [Introduction \(slide deck, pdf\)](https://drive.google.com/file/d/1lJOwkGJGrlbqjnQzG60Wv2OAcyK3uuG6/view)
 * [Website](https://graviton.one/)
+* [Graviton Exploit Exploration mission](graviton-exploit-exploration-mission.md)
 

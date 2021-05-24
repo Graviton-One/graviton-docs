@@ -4,13 +4,9 @@ The DeFi ecosystem originated within Ethereum, and despite tremendous fees, most
 
 ### LP tokens structure
 
-The inner workings of liquidity pools on AMMs are as follows. A pool, as a storage of tokens that enables instant exchanges, is formed from several assets, most often two, which tend to have identical volumes. When setting up liquidity for a token pair on any AMM exchange, pools have what is called a [Base token and a Quote token](https://dodoex.github.io/docs/docs/pmmDetails). As an example: for the USDN / BNB token pair on PancakeSwap, USDN is the Base token, while BNB is the Quote token. In a blockchain where a pool is located, either the native token of the platform \(eth, bnb, waves, ht, ftm\) or a liquid stablecoin \(dai, usdn, usdt, busd, husd\) usually acts as the Quote token. The Base token is usually either a token of some project issued on the blockchain, or “wrapped” into it through a cross-chain bridge from another platform.
+The inner workings of liquidity pools on AMMs are as follows. A pool, as a storage of tokens that enables instant exchanges, is formed from several assets, most often two, which tend to have identical volumes. When setting up liquidity for a token pair on any AMM exchange, pools have what is called a [Base token and a Quote token](https://dodoex.github.io/docs/docs/pmmDetails). As an example: for the USDT / BNB token pair on PancakeSwap, USDT is the Base token, while BNB is the Quote token. In a blockchain where a pool is located, either the native token of the platform \(eth, bnb, waves, ht, ftm\) or a liquid stablecoin \(dai, usdt, busd, husd\) usually acts as the Quote token. The Base token is usually either a token of some project issued on the blockchain, or “wrapped” into it through a cross-chain bridge from another platform.
 
-Example 1: Gravity-wrapped gwUSDN \(Waves as origin chain\) / BNB \(native token of BSC\) on Bakery Swap
-
-[https://bscscan.com/address/0x57d2879fa09fbc93d0b21122819a408a52a2ddaa\#internaltx](https://bscscan.com/address/0x57d2879fa09fbc93d0b21122819a408a52a2ddaa#internaltx)
-
-Example 2: multichain.xyz wrapped DPI \(eth as origin chain\) / BNB \(native token of BSC\) on Pancake Swap
+Example 1: multichain.xyz wrapped DPI \(eth as origin chain\) / BNB \(native token of BSC\) on Pancake Swap
 
 [https://bscscan.com/token/0x069784dd0e8326c849075270c14903b77a416cc2](https://bscscan.com/token/0x069784dd0e8326c849075270c14903b77a416cc2)
 
@@ -32,7 +28,7 @@ Now, any token that was issued via an interchain bridge falls into the wrapped t
 
 A recently wrapped token issued via a bridge does not itself carry any value in the target chain \(the chain that it was wrapped into\), since no one, except for the issuer, has any means of buying and trading it. In order for the wrapped token to become functionally useful, it first needs to be listed on a DeFi service that operates within the target chain, such as an AMM exchange. 
 
-The standard route that one can take to integrate a wrap token into any AMM service is to create a liquidity pool for an actively used quote token on the target chain, for example, the native token \(eth, bnb, waves, ht, ftm\) or a stablecoin \(dai, usdn, usdt, busd, husd\).
+The standard route that one can take to integrate a wrap token into any AMM service is to create a liquidity pool for an actively used quote token on the target chain, for example, the native token \(eth, bnb, waves, ht, ftm\) or a stablecoin \(dai, usdt, busd, husd\).
 
 As soon as such a pool is created, it immediately adds the following utilities to the token: it becomes liquid in the target chain \(meaning that it can now be sold or bought\) and arbitrage opportunities are now available between the two blockchain systems, since in the origin chain the asset can be either more or less expensive than in the target chain, which encourages traders to profit on trading operations and cross-chain swaps.
 

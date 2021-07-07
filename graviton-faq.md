@@ -10,8 +10,6 @@ Graviton provides an infrastructure for Ethereum-account owners to let them effo
 
 ## How does it work?
 
-Graviton enables Ethereum accounts to interact trustlessly with any blockchain, maintaining a sufficient decentralization level. This is achieved by leveraging Gravity, a token- and blockchain-agnostic oracles network for cross-chain communication, or potentially other oracle networks.
-
 Graviton incentivizes users to lock tokens in gateways and maintain their liquidity in decentralized AMM pools with its governance token GTON. GTON rewards come from the following sources:
 
 * GTON tokens are issued when a user invests in the treasury

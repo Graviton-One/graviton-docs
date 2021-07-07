@@ -20,7 +20,7 @@ Graviton consists of five components:
 
 1. A **mirror account** is created in the target chain to run transactions signed by the corresponding Ethereum account’s owner. A mirror account in a destination chain, other than Ethereum, carries out transactions signed by the Ethereum account owner - “mirror transactions.” 
 
-2. **Wrapped tokens** are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via Gravity.
+2. **Wrapped tokens** are issued in the target chain by locking tokens on Ethereum as the origin chain and wrapping them via [SuSy](https://susy.one/swap).
 
 3. The **AMM** enables swaps of wrapped tokens and provides them to liquidity pools in farms on multiple chains.
 

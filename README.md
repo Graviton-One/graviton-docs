@@ -14,7 +14,7 @@ Two years ago, VentuaryLab stood at the origins of USD Neutrino, or [USDN](https
 
 It so happens that in the DeFi space of today, most opportunity lies with Ethereum. It provides a vast range of DeFi solutions and has ample liquidity, albeit hindered by exorbitant gas fees and frequent network congestion. However, in recent months many alternative blockchain networks and ecosystems have shown remarkable progress and growth, offering comparable or even superior services but significantly more affordable in terms of transaction costs. It became obvious that DeFi is not limited to Ethereum, which only preserves the dominance in this space by inertia. Nevertheless, the shift to alternative networks is hampered by complicated, multi-step user experience and insufficient liquidity of tokens wrapped in blockchains other than Ethereum, which is one of the key factors influencing the prosperity of  inter-chain DeFi.
 
-During the past year, VentuaryLab has been focused on in-depth R&D in the field of inter-chain communication. We have developed [Gravity](http://gravity.tech), a leading-edge technology that establishes a solid foundation for multi-purpose inter-chain applications and gateways, such as [SuSy](https://susy.gravity.tech/). One of the potential applications of such technologies is to simplify for the regular users of Ethereum the process of interaction with DeFi services in other chains, while allowing them to remain within the comfort of their existing accounts and tools they’re accustomed to. Using our open-source developments, you can gain unhindered access to inter-chain DeFi, or just test and see whether a certain blockchain ecosystem is in line with your individual use case without having to buy native tokens on CEXes or install new wallets.
+During the past year, VentuaryLab has been focused on in-depth R&D in the field of inter-chain communication. We developed [Gravity](http://gravity.tech), a leading-edge technology that establishes a solid foundation for multi-purpose inter-chain applications and gateways, such as [SuSy](https://susy.gravity.tech/). One of the potential applications of such technologies is to simplify for the regular users of Ethereum the process of interaction with DeFi services in other chains, while allowing them to remain within the comfort of their existing accounts and tools they’re accustomed to. Using our open-source developments, you can gain unhindered access to inter-chain DeFi, or just test and see whether a certain blockchain ecosystem is in line with your individual use case without having to buy native tokens on CEXes or install new wallets.
 
 This past years’ experience contributed to the discovery of the most pressing DeFi industry problems and ways of solving them.
 
@@ -34,7 +34,7 @@ Graviton's end goal is to unite the communities of different blockchain projects
 
 Graviton consists of:
 
-* The MegaBridge — a cross chain bridge aggregator that combines bridges such as multichain.xyz \(evm &lt;-&gt; evm\), ren \(btc/doge &lt;-&gt; evm\), gravity \(solana/waves/polka &lt;-&gt; evm\) and others
+* The MegaBridge — a cross chain bridge aggregator that combines bridges such as multichain.xyz \(evm &lt;-&gt; evm\), Ren \(btc/doge &lt;-&gt; evm\), SuSy \(solana/waves/polka &lt;-&gt; evm\) and others
 * LP incentivization solution that creates a reward-based economy around wrapped assets \(see Catalyst\)
 * "Mirror accounts" for Ethereum-account owners to let them effortlessly access a wide range of alternative chains
 
@@ -51,7 +51,7 @@ Incentives are what the Graviton system is driven by. Reward-based economy aroun
 
 ## Tokenomics <a id="bd37"></a>
 
-The total supply of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) is capped at 21 million tokens. Its unlocking occurs according to a slowly decaying, deflationary model. The original GTONs will first become claimable on the Fantom blockchain, however by using [multichain](https://multichain.xyz/).xyz, Gravity SuSy, RenVM or other bridges, the holders of GTONs will be able to swap their claimed GTONs into other blockchain networks, such as BSC, Ethereum, Heco, Waves, Avalanche, Tron, Polka or Solana.
+The total supply of [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) is capped at 21 million tokens. Its unlocking occurs according to a slowly decaying, deflationary model. The original GTONs will first become claimable on the Fantom blockchain, however by using [multichain](https://multichain.xyz/).xyz, SuSy, RenVM or other bridges, the holders of GTONs will be able to swap their claimed GTONs into other blockchain networks, such as BSC, Ethereum, Heco, Waves, Avalanche, Tron, Polka or Solana.
 
 ## Treasury <a id="f3f9"></a>
 
@@ -91,7 +91,7 @@ Early birds, also dubbed as early backers, are the early supporters of the Gravi
 
 At the end of the EB stage, the initial capitalisation is established and a starting price is determined via a price discovery approach before the token is listed on DEX AMMs. Thus, [GTON](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d) token will instantly gain liquidity volume and attractiveness for traders.
 
-At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 8 preselected liquid USD-pegged stablecoins. Treasury early backers \(or, as we call them, early birds\) can deposit a stablecoin into the treasury by transferring it to a multisig contract based on Gnosis Safe. As soon as the event of the deposit happens, it is registered by the oracles of the Gravity network and transmitted to the farm smart contract on the Fantom blockchain.
+At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 8 preselected liquid USD-pegged stablecoins. Treasury early backers \(or, as we call them, early birds\) can deposit a stablecoin into the treasury by transferring it to a multisig contract based on Gnosis Safe. As soon as the event of the deposit happens, it is registered by oracles and transmitted to the farm smart contract on the Fantom blockchain.
 
 In the smart contract system on the Fantom network, the addresses of early backers from Ethereum are mapped and their current “impact” is recorded in the Treasury. For each blockchain time interval, a new share of Graviton tokens \($GTON\) is being unlocked and proportionally distributed among the early backers. At the end of the early-bird period, the impact of each early-bird contributor is calculated, which is proportional to the amount of deposited stablecoins.
 

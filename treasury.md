@@ -6,7 +6,7 @@ _Graviton governance and initial liquidity is set in motion through treasury far
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 8 preselected liquid USD-pegged [stablecoins](https://debank.com/ranking/stablecoin). Treasury participants can deposit a stablecoin into the treasury by transferring it to a multisig contract based on [Gnosis Safe](https://gnosis-safe.io/). As soon as the event of the deposit happens, it is registered by the oracles of [the Gravity network](https://gravity.tech/) and transmitted to the farm smart contract on the [Fantom blockchain](https://fantom.foundation/). 
+At its core, Graviton treasury uses Ethereum as a primary blockchain, with a range of 8 preselected liquid USD-pegged [stablecoins](https://debank.com/ranking/stablecoin). Treasury participants can deposit a stablecoin into the treasury by transferring it to a multisig contract based on [Gnosis Safe](https://gnosis-safe.io/). As soon as the event of the deposit happens, it is registered by oracles and transmitted to the farm smart contract on the [Fantom blockchain](https://fantom.foundation/). 
 
 In the smart contract system on the Fantom network, the addresses of backers from Ethereum are mapped and their current “impact” is recorded in the Treasury. For each blockchain time interval, a share of new Graviton tokens \($GTON\) is being unlocked and proportionally distributed among the backers. The total supply of GTON is capped at 21 million tokens. 
 

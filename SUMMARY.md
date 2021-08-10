@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to Graviton](README.md)
+* [Introduction to Graviton \[updated\]](README.md)
 * [Wrapped Tokens Explained](wrapped-tokens-explained.md)
 * [Graviton Catalyst](graviton-catalyst.md)
 * [GTON as a multichain relay token](gton-as-a-cross-chain-relay-token.md)

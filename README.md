@@ -2,10 +2,6 @@
 
 ![](https://miro.medium.com/max/6400/1*elIGyZ2JhOOfvYeEh-Gstw.png)
 
-_**NB: The GTON token on ETH has been launched. This is the only correct GTON token: 0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d \(**_[_**https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d**_](https://etherscan.io/address/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d)_**\) Please beware of copycat/scam tokens.**_
-
-_VentuaryLab presents a novel inter-chain concept that combines a liquidity incentivization system for wrapped tokens with a bridge aggregator as part of its infrastructure._
-
 ## Intro & issues of the DeFi Space <a id="b286"></a>
 
 For the last three years, we at VentuaryLab have been observing the evolving Web3 space and developing DeFi products, uncovering major constraints that hinder the truly borderless inDeFi experience and liquidity growth.

@@ -1,6 +1,6 @@
-# Wrapped Tokens Explained
+# Lack of Liquidity Explained
 
-The DeFi ecosystem originated within Ethereum, and despite tremendous fees, most liquidity and project building are still situated there. A key technical solution that stimulated the influx of capital into DeFi was the so-called AMM DEX, or automated market-making decentralized exchanges. The most inventive underlying concept of AMM DEX is an LP token, which is essentially an asset that represents the share of a liquidity provider in a liquidity pool of some AMM service.
+The DeFi ecosystem originated within Ethereum, and despite tremendous fees, most liquidity and project building are still situated there. A key technical solution that stimulated the influx of capital into DeFi was the so-called AMM DEX, or automated market-making decentralized exchanges. The most inventive underlying concept of AMM DEX is an LP token, which is essentially an asset that represents the share of a liquidity provider in a liquidity pool of some AMM service. 
 
 ### LP tokens structure
 
@@ -20,7 +20,7 @@ DeFi tokens are typically deployed onto a single blockchain network: the origin 
 
 One of the results of interchain DeFi’s evolution is the proliferation of gateways or bridges. As of today, a multitude of large blockchain projects have released their own gateway solutions: two prominent examples are Bridges from Binance Smart Chain, or the Wormhole bridge from Solana. Also, a few projects that specialize on cross-chain swaps have been recently gaining popularity: [multichain.xyz](http://multichain.xyz), [ren project](https://renproject.io/), and [SuSy](https://susy.one/swap).
 
-Different gateway solutions have their own advantages and disadvantages, and vary in the level of decentralization, community support, capitalization, swap time, supported ecosystems and tokens, and fees.
+Different gateway solutions have their own advantages and disadvantages, and vary in the level of decentralization, community support, capitalization, swap time, supported ecosystems and tokens, and fees. 
 
 Now, any token that was issued via an interchain bridge falls into the wrapped token category. Let us further expand on why just issuing a wrapped token is not sufficient to make it usable within a destination ecosystem. 
 
@@ -35,4 +35,8 @@ As soon as such a pool is created, it immediately adds the following utilities t
 There always remains a chicken and egg problem though: the low liquidity of a wrapped token in the target chain creates a high slippage when buying or selling it, and this leads to a shortage of trading volumes, which makes it less attractive for traders to add the wrapped token into pools. This inefficiency is usually very slow to resolve over time, because a critical mass of early adopters and affiliates needs to arise first, which, through the network effect, can finally lead to an increase in liquidity and volumes.
 
 In order to boost this process of liquidity growth, extra incentives are necessary, for example, in the form of farming rewards for providing liquidity. This is partially solved by the likes of CAKE and CRV, but in case of wrapped tokens, LP farming rewards are often not farmable from the get-go and require additional approvals and verifications. However, if participants are provided with proper rewards for creating and staking WT LP on various AMM services, this inevitably leads to an increase in volume and exposure of wrapped assets in new ecosystems. This is the main aim of Graviton, as it unites ecosystems, DEXes, and DeFi projects around a common mission -- to boost liquidity and hence the overall adoption of wrapped tokens.
+
+### CEX tokens liquidity
+
+We encounter many tokens that have zero liquidity in DeFi \(on AMM DEXes\), but are otherwise liquid on CEXes: these are usually **old ICO/IEO projects** or **CEX coins.** Graviton is able to solve the liquidity issue for those tokens as well.
 

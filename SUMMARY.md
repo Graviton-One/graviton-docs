@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction to Graviton \[updated\]](README.md)
-* [Wrapped Tokens Explained](wrapped-tokens-explained.md)
+* [Lack of Liquidity Explained](wrapped-tokens-explained.md)
 * [Graviton Catalyst](graviton-catalyst.md)
 * [GTON as a multichain relay token](gton-as-a-cross-chain-relay-token.md)
 * [Graviton Ecosystems](graviton-ecosystems.md)

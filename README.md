@@ -1,10 +1,24 @@
 # Introduction to Graviton \[updated\]
 
-![](https://lh5.googleusercontent.com/N39jECkNmefrmglG3OLoNrnkisTlNKA03yw-BUjAiv_ORxmFkH2kijbOlxV5LhAne3maZ1AsZCc-_2R6DKAaoZn7PqeC_pxKe3mF2jRR-6fg7GETicKHj2VR-UoRJmLkLQmdXrGX)
+![GTON as &quot;token in the middle&quot;](https://lh5.googleusercontent.com/N39jECkNmefrmglG3OLoNrnkisTlNKA03yw-BUjAiv_ORxmFkH2kijbOlxV5LhAne3maZ1AsZCc-_2R6DKAaoZn7PqeC_pxKe3mF2jRR-6fg7GETicKHj2VR-UoRJmLkLQmdXrGX)
 
 ## Boosting multichain liquidity and usability for the entire DeFi space
 
 #### _Graviton: A Multichain Liquidity Enhancer with a Relay Token & Permissionless Reflection Farming_
+
+### Problems
+
+#### **I. Lack of “DeFi liquidity”**
+
+Even after the 20/21 DeFi boom and the rapid adoption growth of decentralized applications, we still face issues with DeFi liquidity for many assets, which are otherwise liquid on CEXes \(**old ICO/IEO projects** or **CEX coins**\) or assets originally from one chain, but wrapped into another \(destination\) chain, i.e. **wrapped assets**.
+
+**II. New chains/platforms exploration issues**
+
+_Have you ever tried to explore a new chain like matic, bsc or solana?_
+
+Even with an already created account, you still have to find ways to deposit the native token onto it. Here's how the user journey usually looks: ETH to CEX -&gt; find and buy token from CEX -&gt; withdrawal 2FA/Email/SMS -&gt; waiting confirmations, and only after this chain of actions it becomes possible to test a new ecosystem.
+
+Our solution [Graviton](https://graviton.one/) increases both **multichain liquidity \(I\)** and **usability \(II\)** via a Relay Token \([$GTON](https://www.coingecko.com/en/coins/graviton)\) & Reflection Farming.
 
 ### What is GTON?
 

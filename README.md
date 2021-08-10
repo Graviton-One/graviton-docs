@@ -1,6 +1,6 @@
 # Introduction to Graviton \[updated\]
 
-![](https://lh3.googleusercontent.com/AwA7cCWmWF2A43wi1rxTAoPyr9BXzy4kODkGx_JoHRrL0xIBBtmKjT2zB5qMZL3vxSD4s0Q7EhtaoYmdcI9xK-vdgyeMdeInFwKynMIJeSocYiLpViRlcjOfemEEOAKF0bHFIfkA)
+![](https://lh5.googleusercontent.com/N39jECkNmefrmglG3OLoNrnkisTlNKA03yw-BUjAiv_ORxmFkH2kijbOlxV5LhAne3maZ1AsZCc-_2R6DKAaoZn7PqeC_pxKe3mF2jRR-6fg7GETicKHj2VR-UoRJmLkLQmdXrGX)
 
 ## Boosting multichain liquidity and usability for the entire DeFi space
 

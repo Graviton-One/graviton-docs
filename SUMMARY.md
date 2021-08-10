@@ -3,7 +3,7 @@
 * [Introduction to Graviton](README.md)
 * [Wrapped Tokens Explained](wrapped-tokens-explained.md)
 * [Graviton Catalyst](graviton-catalyst.md)
-* [GTON as a cross-chain relay token](gton-as-a-cross-chain-relay-token.md)
+* [GTON as a multichain relay token](gton-as-a-cross-chain-relay-token.md)
 * [Treasury Farming and Governance Roles](treasury-farming-and-governance-roles.md)
 * [Treasury as Collateral for GTON](treasury-as-collateral-for-gton.md)
 * [Interchain Treasury Architecture](treasury.md)

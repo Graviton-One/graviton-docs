@@ -6,9 +6,7 @@ Graviton Catalyst offers primary incentives and sustainable support for **wrappe
 
 **Graviton Catalyst** hosts farming programs that provide additional rewards for the holders of various **LP tokens. Each such LP token** supported by Catalyst represents the share in a pool **containing any wrapped token and a liquid asset** \(e.g. WETH, WBNB, or a stablecoin\) and, within the Graviton system, it gets assigned with GTON allocation points. The Catalyst programs are limited in time by **two to three weeks,** and reweighting of the LP rewards’ allocation points occurs every week. For rewarding liquidity providers under the Catalyst program, **12%** of the total GTON supply is allocated.
 
-![](https://miro.medium.com/max/1400/1*K4n7TdH6dIzKfN5SIrx4rw.png)
-
-An example of one of the Catalyst’s interface screens
+![An example of one of the Catalyst&#x2019;s interface screens](https://miro.medium.com/max/1400/1*K4n7TdH6dIzKfN5SIrx4rw.png)
 
 Once a project finishes participating in the Catalyst program, the incentivization for a particular LP token can be reinstated through the Graviton **Boost program,** in case of a continued interest of the community to promote the project. **Boost** is intended to maintain liquidity inflows into the LP pools, and thus tokens, which have already gained a critical amount of initial liquidity and have become noticeable on the market. GTON allocations per LP token in Boost programs are expected to be lower than in Catalyst programs, but still sufficiently lucrative and capable of driving growth. The entire allocation of GTON for Boost programs is **8%,** and the duration of such programs will vary from **one to two months.**
 

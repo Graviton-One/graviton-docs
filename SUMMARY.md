@@ -1,13 +1,15 @@
 # Table of contents
 
-* [Introduction to Graviton](README.md)
-* [Lack of Liquidity Explained](wrapped-tokens-explained.md)
-* [Graviton Catalyst](graviton-catalyst.md)
-* [GTON as a multichain relay token](gton-as-a-cross-chain-relay-token.md)
-* [Graviton Ecosystems](graviton-ecosystems.md)
-* [GTON Staking](gton-staking.md)
-* [Graviton Exploit Exploration mission](graviton-exploit-exploration-mission.md)
-* [FAQ](graviton-faq.md)
+* [GTON Capital](README.md)
+
+## Graviton
+
+* [Introduction to Graviton](graviton/master.md)
+* [Lack of Liquidity Explained](graviton/wrapped-tokens-explained.md)
+* [GTON as a multichain relay token](graviton/gton-as-a-cross-chain-relay-token.md)
+* [$RELICT Token](graviton/usdrelict-token.md)
+* [Graviton Ecosystems](graviton/graviton-ecosystems.md)
+* [FAQ](graviton/graviton-faq.md)
 * [Graviton App](https://graviton.one)
 
 ## Treasury & Governance <a href="treasury-1" id="treasury-1"></a>
@@ -20,3 +22,9 @@
 * [GTON Unlocking Schedule](gton-unlocking-schedule.md)
 * [Treasury as Collateral for GTON](treasury-as-collateral-for-gton.md)
 * [Graviton Governance Framework](graviton-governance-framework.md)
+
+## Deprecated
+
+* [Graviton Catalyst](deprecated/graviton-catalyst.md)
+* [Graviton Exploit Exploration mission](deprecated/graviton-exploit-exploration-mission.md)
+* [GTON Staking](deprecated/gton-staking.md)

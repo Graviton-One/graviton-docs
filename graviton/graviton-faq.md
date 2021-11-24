@@ -79,7 +79,7 @@ Initially, a share in GTON can be secured on the Graviton portal by supplying st
 
 GTON farming will be initially available to early backers. Subsequently, public governance farming will be launched and an opportunity to supply stablecoins to the treasury will become available for regular backers. Other farming options will be launched in late Q2.
 
-![](<.gitbook/assets/Graviton\_Milestones\_new@2x 2.png>)
+![](<../.gitbook/assets/Graviton\_Milestones\_new@2x 2.png>)
 
 ## How can I see my farmed GTON?
 

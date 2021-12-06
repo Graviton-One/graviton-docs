@@ -12,7 +12,7 @@
 * [FAQ](graviton/graviton-faq.md)
 * [Graviton App](https://graviton.one)
 
-## Treasury & Governance <a href="treasury-1" id="treasury-1"></a>
+## Treasury & Governance <a href="#treasury-1" id="treasury-1"></a>
 
 ***
 
@@ -23,8 +23,9 @@
 * [Treasury as Collateral for GTON](treasury-as-collateral-for-gton.md)
 * [Graviton Governance Framework](graviton-governance-framework.md)
 
-## Deprecated
+## Legacy
 
-* [Graviton Catalyst](deprecated/graviton-catalyst.md)
-* [Graviton Exploit Exploration mission](deprecated/graviton-exploit-exploration-mission.md)
-* [GTON Staking](deprecated/gton-staking.md)
+* [Graviton -> GTON Capital](legacy/graviton-greater-than-gton-capital.md)
+* [Graviton Catalyst](legacy/graviton-catalyst.md)
+* [Graviton Exploit Exploration mission](legacy/graviton-exploit-exploration-mission.md)
+* [GTON Staking](legacy/gton-staking.md)

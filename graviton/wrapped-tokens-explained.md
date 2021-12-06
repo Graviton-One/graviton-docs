@@ -38,4 +38,4 @@ In order to boost this process of liquidity growth, extra incentives are necessa
 
 ### CEX tokens liquidity
 
-We encounter many tokens that have zero liquidity in DeFi (on AMM DEXes), but are otherwise liquid on CEXes: these are usually **old ICO/IEO projects** or **CEX coins. **Graviton is able to solve the liquidity issue for those tokens as well.
+We encounter many tokens that have zero liquidity in DeFi (on AMM DEXes), but are otherwise liquid on CEXes: these are usually **old ICO/IEO projects** or **CEX coins.** Graviton is able to solve the liquidity issue for those tokens as well.

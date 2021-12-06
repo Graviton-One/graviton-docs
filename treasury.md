@@ -2,7 +2,7 @@
 
 ![](<.gitbook/assets/image (6).png>)
 
-_Graviton governance and initial liquidity is set in motion through treasury farming, a novel concept that revolves around automatically bootstrapping liquidity and issuing a governance token. This page briefly describes the mechanics of farming as it unfolds in the Treasury of the Graviton project. _
+_Graviton governance and initial liquidity is set in motion through treasury farming, a novel concept that revolves around automatically bootstrapping liquidity and issuing a governance token. This page briefly describes the mechanics of farming as it unfolds in the Treasury of the Graviton project._&#x20;
 
 ![](<.gitbook/assets/image (4).png>)
 

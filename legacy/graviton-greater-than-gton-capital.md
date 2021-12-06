@@ -12,7 +12,7 @@ Redefining Graviton into GTON Capital is prompted by the advancement of DeFi 2.0
 
 ## Built around GTON
 
-CTON Capital places the GTON token at the very center of its ecosystem. As a token with a focus on maintaining high liquidity, GTON will serve as a pillar for the tokenomics of the ecosystem’s projects - OGS, Candy, and SuSy - through bootstrapping primary markets for their tokens. A constant liquidity source for all listed tokens will be achieved by pairing them against GTON.
+CTON Capital places the GTON token at the very center of its ecosystem. As a token with a focus on maintaining high liquidity, GTON will serve as a pillar for the tokenomics of the ecosystem’s projects - _OGS_, _Candy_, and _SuSy_ - through bootstrapping primary markets for their tokens. A constant liquidity source for all listed tokens will be achieved by pairing them against GTON.
 
 As a DAO, GTON CAPITAL will own and maintain the majority of the crucial router pools in OGS and serve as the largest LP for these pools in Candy. The collected yield will belong to the DAO, and the constantly replenished treasury will be employed by Pathway to parametrically govern over liquidity and volumes. The DAO will also be the primary rulesetter for treasury management carried out by Pathway. Therefore, GTON CAPITAL is essentially an interconnected ecosystem of products tied together and mutually benefiting from the GTON token.
 
@@ -26,7 +26,7 @@ We’ve gained a lot of insight since the launch of GTON. One of the important r
 
 However, the main finding that urges us to revise the ecosystem design is what is essential for managing digital capital markets and a key to success: Concentration of capital in the system (Liquidity), Economic activity (Volumes), A flexible system of decentralized management (Governance).
 
-GTON Capital combines solutions with each of the three factors at their core: Candy for liquidity, OGS for trading volume, helped by Pathway, managed by DAO, and complemented by SuSy for multichain presence.
+GTON Capital combines solutions with each of the three factors at their core: _Candy_ for liquidity, _OGS_ for trading volume, helped by _Pathway_, managed by DAO, and complemented by _SuSy_ for multichain presence.
 
 ## Solid basis for the new times
 

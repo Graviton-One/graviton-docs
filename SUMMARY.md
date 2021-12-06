@@ -26,6 +26,6 @@
 ## Legacy
 
 * [Graviton -> GTON Capital](legacy/graviton-greater-than-gton-capital.md)
-* [Graviton Catalyst](legacy/graviton-catalyst.md)
-* [Graviton Exploit Exploration mission](legacy/graviton-exploit-exploration-mission.md)
-* [GTON Staking](legacy/gton-staking.md)
+* [Graviton Catalyst](deprecated/graviton-catalyst.md)
+* [Graviton Exploit Exploration mission](deprecated/graviton-exploit-exploration-mission.md)
+* [GTON Staking](deprecated/gton-staking.md)

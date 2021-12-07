@@ -1,4 +1,10 @@
+---
+description: Summary of Graviton's updates that pave the way to GTON Capital
+---
+
 # Graviton --> GTON Capital
+
+![](<../.gitbook/assets/Graviton evolves\_medium@2x.png>)
 
 **Following the recent unveiling of GTON Capital, we intend to take GTON and its utility to a new level. This strategic move aims to consolidate all proposed concepts into a simple and cohesive ecosystem, giving new dimensions to the envisioned and already launched products.**
 

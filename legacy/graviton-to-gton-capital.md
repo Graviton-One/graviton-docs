@@ -8,6 +8,8 @@ GTON CAPITAL is an infrastructure for advancing digital capital markets, uniting
 
 GTON CAPITAL includes Candy protocol, a one-sided liquidity mining and staking solution, OGS protocol, a zero-fee AMM DEX, and Pathway, an algorithmic solution for managing PCA (Protocol Controlled Assets) and POL (Protocol Owned Liquidity).
 
+GTON CAPITAL is helped by SuSy - capital efficient liquidity bridge from Solana to EVM and non-EVM chains, to fulfill its mission across all chains.
+
 Redefining Graviton into GTON Capital is prompted by the advancement of DeFi 2.0, which does not reject but augments the initial mission of Graviton -- becoming a central solution for liquidity incentivization.
 
 ## Built around GTON
@@ -32,15 +34,15 @@ GTON Capital combines solutions with each of the three factors at their core: _C
 
 _So what's actually changing?_
 
-Graviton was envisioned as a multichain project aimed to boost liquidity for the entire DeFi space. This goal remains the same: the proposed design is dedicated to liquidity boosting tokens listed on OGS & Candy, and of $GTON, $OGS and $CANDY themselves. Let’s take a closer look.
+_Graviton_ was envisioned as a multichain project aimed to boost liquidity for the entire DeFi space. This goal remains the same: the proposed design is dedicated to liquidity boosting tokens listed on OGS & Candy, and of $GTON, $OGS and $CANDY themselves. Let’s take a closer look.
 
-_Catalyst_, announced earlier as a platform for liquidity boosting with incentives paid out in GTON, lives on as _Candy_, except for a simplification of LP process to one-sided liquidity mining.
+_Catalyst_, announced earlier as a platform for liquidity boosting with incentives paid out in GTON, lives on as Candy, except for a simplification of LP process to one-sided liquidity mining.
 
-GTON Capital also remains multichain-focused, as Graviton planned to provide liquidity mining across different networks. The GTON token itself has been present on multiple ecosystems, being ported to seven chains within the first month after launch. _OGS_ and _Candy_ will also be multichain with launch (_OGSwap_ as an MVP of _OGS_ already is).
+_GTON Capital_ also remains multichain-focused, as _Graviton_ planned to provide liquidity mining across different networks. The GTON token itself has been present on multiple ecosystems, being ported to seven chains within the first month after launch. OGS and Candy will also be multichain with launch (OGSwap as an MVP of OGS LINK already is).
 
-Another product, _Megabridge_, was previously envisioned as an aggregator of multiple bridges for multidirectional crosschain swaps in one place. It was designed as a solution combining Graviton’s custom bridges and other existing solutions. However, the experience we gained in the space shows that simple token transfers are not something that the industry is missing now. The projects that initially applied for participating in _Megabridge_ are all experiencing issues with uneven liquidity concentration, worsened by the lack of liquidity for wrapped token versions. To counteract that, _SuSy_, one of the custom products in GTON Capital that still leverages the best existing solutions, has had a major overhaul under the hood. We switched to a fork of Wormhole and implemented liquidity management (PCA) of assets locked on bridges. In addition, governance mechanics are being introduced into _SuSy_.
+Another product, _Megabridge_, was previously envisioned as an aggregator of multiple bridges for multidirectional crosschain swaps in one place. It was designed as a solution combining Graviton’s custom bridges and other existing solutions. However, the experience we gained in the space shows that simple token transfers are not something that the industry is missing now. The projects that initially applied for participating in _Megabridge_ are all experiencing issues with uneven liquidity concentration, worsened by the lack of liquidity for wrapped token versions. To counteract that, _SuSy_, one of the custom products in _GTON Capital_ that still leverages the best existing solutions, has had a major overhaul under the hood. We switched to a fork of Wormhole and implemented liquidity management (PCA) of assets locked on bridges. In addition, governance mechanics are being introduced into _SuSy_.
 
-The focus on the incentivisation of wrapped tokens finds its place in the amalgamation of the renewed _SuSy_ bridge solution and _Candy_: our commitment to create effortless cross-chain transfers remains but shifts to a special focus on liquidity. _SuSy_ bridge ensures that liquidity is retained in cross-chain swaps, whilst _Candy_ establishes initial markets for wrapped tokens with GTON-based LP incentives.
+The focus on the incentivisation of wrapped tokens finds its place in the amalgamation of the renewed _SuSy_ bridge solution and _Candy_: our commitment to create effortless cross-chain transfers remains but shifts to a special focus on liquidity. [_SuSy_ _bridge_](https://v2.susy.one) ensures that liquidity is retained in cross-chain swaps, whilst _Candy_ establishes initial markets for wrapped tokens with GTON-based LP incentives.
 
 Why are _SuSy_ and _Candy_ split into different products? The last thing that we wish for our users is to deal with a massive and inflexible UX solution whilst the whole digital world tends to maximum simplicity.
 

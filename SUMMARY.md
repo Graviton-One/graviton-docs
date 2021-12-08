@@ -7,7 +7,6 @@
 * [Introduction to Graviton](graviton/master.md)
 * [Lack of Liquidity Explained](graviton/wrapped-tokens-explained.md)
 * [GTON as a multichain relay token](graviton/gton-as-a-cross-chain-relay-token.md)
-* [$RELICT Token](graviton/usdrelict-token.md)
 * [Graviton Ecosystems](graviton/graviton-ecosystems.md)
 * [FAQ](graviton/graviton-faq.md)
 * [Graviton App](https://graviton.one)

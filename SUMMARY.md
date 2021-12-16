@@ -15,8 +15,9 @@
 
 ***
 
+* [Treasury](treasury.md)
 * [Treasury Farming and Governance Roles](treasury-farming-and-governance-roles.md)
-* [Interchain Treasury Architecture](treasury.md)
+* [Interchain Treasury Architecture](treasury-2.md)
 * [Multisig](graviton-multisig.md)
 * [GTON Unlocking Schedule](gton-unlocking-schedule.md)
 * [Treasury as Collateral for GTON](treasury-as-collateral-for-gton.md)
@@ -28,7 +29,3 @@
 * [Graviton Catalyst](deprecated/graviton-catalyst.md)
 * [Graviton Exploit Exploration mission](deprecated/graviton-exploit-exploration-mission.md)
 * [GTON Staking](deprecated/gton-staking.md)
-
-***
-
-* [Treasury](treasury-2.md)
